@@ -9,8 +9,8 @@
         Height: =512
         Image: ='Zulu_presentación-removebg-preview'
         Width: =498
-        X: =106
-        Y: =40
+        X: =79
+        Y: =85
         ZIndex: =1
 
     Label2 As label:
