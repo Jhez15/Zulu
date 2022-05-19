@@ -1,0 +1,9 @@
+[
+  {
+    "AddinConnectorId": "12261fc2-ac22-41e9-985b-6d01ac4b1498",
+    "AddinId": "6d1f157d-95bf-406d-b65d-cfd3240f724e",
+    "Name": "EspaciodeescuchaChat",
+    "ServiceKind": "AddinWadl",
+    "Type": "ServiceInfo"
+  }
+]

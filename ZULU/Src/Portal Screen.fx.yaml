@@ -1,0 +1,131 @@
+"'Portal Screen' As screen.'phoneDetailViewLayout_ver3.0'":
+    BackgroundImage: ='Acreditación Project (3)'
+    ImagePosition: =ImagePosition.Stretch
+
+    Image3 As image:
+        Height: =331
+        Image: ='Acreditación Project (4)'
+        Width: =292
+        X: =168
+        Y: =42
+        ZIndex: =2
+
+    Label7 As label:
+        Align: =Align.Center
+        Color: =RGBA(39, 95, 84, 1)
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Bold
+        Height: =76
+        Size: =35
+        Text: ="ZULU"
+        Width: =560
+        X: =34
+        Y: =297
+        ZIndex: =4
+
+    TextInput5 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Width: =347
+        X: =184
+        Y: =621
+        ZIndex: =5
+
+    Label5 As label:
+        Color: =RGBA(39, 95, 84, 1)
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Text: ="Email"
+        Width: =107
+        X: =80
+        Y: =621
+        ZIndex: =6
+
+    Label5_1 As label:
+        Color: =RGBA(39, 95, 84, 1)
+        Font: =Font.'Lato Black'
+        Height: =42
+        Size: =21
+        Text: ="Password"
+        Width: =182
+        X: =80
+        Y: =714
+        ZIndex: =7
+
+    Button4 As button:
+        Fill: =RGBA(39, 95, 84, 1)
+        Height: =67
+        OnSelect: =Navigate('Profile Screen')
+        Size: =24
+        Text: ="SIGN UP"
+        Width: =260
+        X: =184
+        Y: =826
+        ZIndex: =10
+
+    TextInput5_1 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Width: =347
+        X: =231
+        Y: =706
+        ZIndex: =11
+
+    TextInput5_2 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Width: =347
+        X: =231
+        Y: =528
+        ZIndex: =12
+
+    TextInput5_3 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Width: =347
+        X: =214
+        Y: =447
+        ZIndex: =13
+
+    Label5_2 As label:
+        Color: =RGBA(39, 95, 84, 1)
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Text: ="Name"
+        Width: =107
+        X: =80
+        Y: =447
+        ZIndex: =14
+
+    Label5_3 As label:
+        Color: =RGBA(39, 95, 84, 1)
+        Font: =Font.'Lato Black'
+        Height: =42
+        Size: =21
+        Text: ="Last Name"
+        Width: =182
+        X: =80
+        Y: =536
+        ZIndex: =15
+
+    Button4_2 As button:
+        Fill: =RGBA(39, 95, 84, 1)
+        Height: =47
+        OnSelect: =Navigate('Portal Screen_1')
+        Size: =20
+        Text: ="LOG IN"
+        Width: =123
+        X: =486
+        Y: =42
+        ZIndex: =16
+

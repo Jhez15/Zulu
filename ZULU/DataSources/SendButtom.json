@@ -1,0 +1,9 @@
+[
+  {
+    "AddinConnectorId": "3f36a10d-eb63-488a-ac07-879ad7726525",
+    "AddinId": "6d1f157d-95bf-406d-b65d-cfd3240f724e",
+    "Name": "SendButtom",
+    "ServiceKind": "AddinWadl",
+    "Type": "ServiceInfo"
+  }
+]

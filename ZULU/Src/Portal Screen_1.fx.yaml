@@ -1,0 +1,87 @@
+"'Portal Screen_1' As screen.'phoneDetailViewLayout_ver3.0'":
+    BackgroundImage: =fondo
+    ImagePosition: =ImagePosition.Fill
+
+    Rectangle3_1 As rectangle:
+        Fill: =RGBA(23, 23, 23, 0.78)
+        Height: =647
+        Width: =574
+        X: =35
+        Y: =390
+        ZIndex: =1
+
+    Image3_1 As image:
+        Height: =331
+        Image: ='Logo Acrediitación Azul'
+        Width: =292
+        X: =138
+        Y: =42
+        ZIndex: =2
+
+    Label7_1 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Bold
+        Height: =76
+        Size: =35
+        Text: ="ZULU"
+        Width: =560
+        X: =34
+        Y: =297
+        ZIndex: =4
+
+    TextInput5_4 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Width: =347
+        X: =177
+        Y: =479
+        ZIndex: =5
+
+    Label5_4 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Text: ="Email"
+        Width: =107
+        X: =73
+        Y: =479
+        ZIndex: =6
+
+    Label5_5 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Black'
+        Height: =42
+        Size: =21
+        Text: ="Password"
+        Width: =182
+        X: =73
+        Y: =572
+        ZIndex: =7
+
+    Button4_1 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =67
+        OnSelect: =Navigate('Profile Screen')
+        Size: =24
+        Text: ="LOG IN"
+        Width: =260
+        X: =184
+        Y: =700
+        ZIndex: =10
+
+    TextInput5_5 As text:
+        Default: ="Entrada de texto"
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Width: =347
+        X: =224
+        Y: =564
+        ZIndex: =11
+
