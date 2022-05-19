@@ -276,7 +276,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label12",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1121,7 +1121,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle1_1",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1293,7 +1293,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Start Buttom",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
