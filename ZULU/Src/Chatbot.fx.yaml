@@ -1,11 +1,19 @@
 Chatbot As screen:
 
-    PowerBI2 As powerbi:
-        BorderColor: =RGBA(186, 202, 226, 1)
-        DashboardId: ="a9eca09d-9049-4497-9cae-ce2ec8b50648"
+    ZULU_BOT As powerbi:
+        DashboardId: ="5382302a-d432-4199-97de-008204201367"
         Height: =1136
         TileUrl: |-
-            ="https://app.powerbi.com/embed?dashboardId=a9eca09d-9049-4497-9cae-ce2ec8b50648&tileId=4639fa20-3142-4e4f-b4f9-f745ec03bac3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLVNPVVRILUNFTlRSQUwtVVMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7Im1vZGVybkVtYmVkIjpmYWxzZX19"
+            ="https://app.powerbi.com/embed?dashboardId=5382302a-d432-4199-97de-008204201367&tileId=f3cefd87-d8c7-4c8a-b9fd-14875eb9cba8&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLVNPVVRILUNFTlRSQUwtVVMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7Im1vZGVybkVtYmVkIjpmYWxzZX19"
         WorkspaceId: ="__my-workspace"
         ZIndex: =1
+
+    Image5_3 As image:
+        BorderColor: =RGBA(0, 94, 146, 1)
+        Height: =89
+        Image: ='17'
+        OnSelect: =Navigate('Profile Screen')
+        X: =540
+        Y: =-8
+        ZIndex: =2
 
