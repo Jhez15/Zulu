@@ -1,2 +1,10 @@
 Chatbot As screen:
 
+    HtmlText1 As htmlViewer:
+        Height: =70
+        HtmlText: =
+        Width: =560
+        X: =40
+        Y: =40
+        ZIndex: =1
+
