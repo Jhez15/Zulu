@@ -65,20 +65,6 @@
     "Name": "groupContainer",
     "Version": "1.0"
   },
-  "htmlViewer": {
-    "CustomGroupControlTemplateName": "",
-    "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/htmlViewer",
-    "IsComponentTemplate": false,
-    "IsCustomGroupControlTemplate": false,
-    "IsPcfControl": false,
-    "IsPremiumPcfControl": false,
-    "IsWidgetTemplate": true,
-    "LastModifiedTimestamp": "0",
-    "Name": "htmlViewer",
-    "OverridableProperties": {},
-    "Version": "2.1.0"
-  },
   "image": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
@@ -106,6 +92,20 @@
     "Name": "label",
     "OverridableProperties": {},
     "Version": "2.5.0"
+  },
+  "powerbi": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/powerBI",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "powerbi",
+    "OverridableProperties": {},
+    "Version": "2.4.0"
   },
   "rectangle": {
     "CustomGroupControlTemplateName": "",
