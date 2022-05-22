@@ -168,8 +168,8 @@
         OnSelect: |-
             =Launch("https://web.powerva.microsoft.com/environments/Default-d8e3bd44-0bba-426b-952d-ada7bb17393c/bots/8ebd2fd9-9628-496f-9aa0-ced1f583d526/" ,LaunchTarget,"_self")
         Width: =159
-        X: =25
-        Y: =987
+        X: =27
+        Y: =982
         ZIndex: =22
 
     Label6 As label:
