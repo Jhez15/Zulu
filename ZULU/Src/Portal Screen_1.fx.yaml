@@ -1,87 +1,560 @@
 "'Portal Screen_1' As screen.'phoneDetailViewLayout_ver3.0'":
-    BackgroundImage: =fondo
+    BackgroundImage: =
     ImagePosition: =ImagePosition.Fill
-
-    Rectangle3_1 As rectangle:
-        Fill: =RGBA(23, 23, 23, 0.78)
-        Height: =647
-        Width: =574
-        X: =35
-        Y: =390
-        ZIndex: =1
 
     Image3_1 As image:
         Height: =331
         Image: ='Logo Acrediitación Azul'
         Width: =292
-        X: =138
-        Y: =42
+        X: =176
+        Y: =15
         ZIndex: =2
 
     Label7_1 As label:
         Align: =Align.Center
-        Color: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(50, 86, 160, 1)
+        Fill: =RGBA(255, 255, 255, 1)
         Font: =Font.'Lato Black'
         FontWeight: =FontWeight.Bold
         Height: =76
         Size: =35
-        Text: ="ZULU"
+        Text: ="Sign up"
         Width: =560
         X: =34
         Y: =297
         ZIndex: =4
 
     TextInput5_4 As text:
-        Default: ="Entrada de texto"
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Default: =""
         Font: =Font.'Lato Black'
-        Height: =57
+        Height: =33
+        HoverBorderColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(241, 244, 249, 1)
         Size: =21
-        Width: =347
-        X: =177
-        Y: =479
+        Width: =418
+        X: =93
+        Y: =500
         ZIndex: =5
 
     Label5_4 As label:
-        Color: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(56, 96, 178, 1)
         Font: =Font.'Lato Black'
         Height: =57
         Size: =21
         Text: ="Email"
         Width: =107
-        X: =73
-        Y: =479
+        X: =89
+        Y: =702
         ZIndex: =6
 
     Label5_5 As label:
-        Color: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(56, 96, 178, 1)
         Font: =Font.'Lato Black'
         Height: =42
         Size: =21
         Text: ="Password"
         Width: =182
-        X: =73
-        Y: =572
+        X: =89
+        Y: =843
         ZIndex: =7
 
-    Button4_1 As button:
-        Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =67
-        OnSelect: =Navigate('Profile Screen')
-        Size: =24
-        Text: ="LOG IN"
-        Width: =260
-        X: =184
-        Y: =700
-        ZIndex: =10
-
-    TextInput5_5 As text:
-        Default: ="Entrada de texto"
+    Label5_6 As label:
+        Color: =RGBA(56, 96, 178, 1)
         Font: =Font.'Lato Black'
         Height: =57
         Size: =21
-        Width: =347
-        X: =224
-        Y: =564
-        ZIndex: =11
+        Text: ="Name & Last name"
+        Width: =270
+        X: =93
+        Y: =443
+        ZIndex: =12
+
+    Label5_7 As label:
+        Color: =RGBA(56, 96, 178, 1)
+        Font: =Font.'Lato Black'
+        Height: =57
+        Size: =21
+        Text: ="Turn"
+        Width: =107
+        X: =93
+        Y: =574
+        ZIndex: =13
+
+    Icon1 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =93
+        Y: =533
+        ZIndex: =14
+
+    Icon1_1 As icon.HorizontalLine:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =133
+        Y: =533
+        ZIndex: =16
+
+    Icon1_2 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =202
+        Y: =533
+        ZIndex: =17
+
+    Icon1_3 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =173
+        Y: =533
+        ZIndex: =18
+
+    Icon1_4 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =245
+        Y: =533
+        ZIndex: =19
+
+    Icon1_5 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =275
+        Y: =533
+        ZIndex: =20
+
+    Icon1_6 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =316
+        Y: =533
+        ZIndex: =21
+
+    Icon1_7 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =363
+        Y: =533
+        ZIndex: =22
+
+    Icon1_8 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =388
+        Y: =533
+        ZIndex: =23
+
+    Icon1_9 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =420
+        Y: =533
+        ZIndex: =24
+
+    Icon1_10 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =459
+        Y: =533
+        ZIndex: =25
+
+    TextInput5_7 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Default: =""
+        Font: =Font.'Lato Black'
+        Height: =33
+        HoverBorderColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(241, 244, 249, 1)
+        Size: =21
+        Width: =418
+        X: =93
+        Y: =631
+        ZIndex: =26
+
+    Icon1_11 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =93
+        Y: =664
+        ZIndex: =27
+
+    Icon1_12 As icon.HorizontalLine:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =133
+        Y: =664
+        ZIndex: =28
+
+    Icon1_13 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =202
+        Y: =664
+        ZIndex: =29
+
+    Icon1_14 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =173
+        Y: =664
+        ZIndex: =30
+
+    Icon1_15 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =245
+        Y: =664
+        ZIndex: =31
+
+    Icon1_16 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =275
+        Y: =664
+        ZIndex: =32
+
+    Icon1_17 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =316
+        Y: =664
+        ZIndex: =33
+
+    Icon1_18 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =363
+        Y: =664
+        ZIndex: =34
+
+    Icon1_19 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =388
+        Y: =664
+        ZIndex: =35
+
+    Icon1_20 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =420
+        Y: =664
+        ZIndex: =36
+
+    Icon1_21 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =459
+        Y: =664
+        ZIndex: =37
+
+    TextInput5_8 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Default: =""
+        Font: =Font.'Lato Black'
+        Height: =33
+        HoverBorderColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(241, 244, 249, 1)
+        Size: =21
+        Width: =418
+        X: =93
+        Y: =754
+        ZIndex: =38
+
+    Icon1_22 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =93
+        Y: =787
+        ZIndex: =39
+
+    Icon1_23 As icon.HorizontalLine:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =133
+        Y: =787
+        ZIndex: =40
+
+    Icon1_24 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =202
+        Y: =787
+        ZIndex: =41
+
+    Icon1_25 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =173
+        Y: =787
+        ZIndex: =42
+
+    Icon1_26 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =245
+        Y: =787
+        ZIndex: =43
+
+    Icon1_27 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =275
+        Y: =787
+        ZIndex: =44
+
+    Icon1_28 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =316
+        Y: =787
+        ZIndex: =45
+
+    Icon1_29 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =363
+        Y: =787
+        ZIndex: =46
+
+    Icon1_30 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =388
+        Y: =787
+        ZIndex: =47
+
+    Icon1_31 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =420
+        Y: =787
+        ZIndex: =48
+
+    Icon1_32 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =459
+        Y: =787
+        ZIndex: =49
+
+    TextInput5_9 As text:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Default: =""
+        Font: =Font.'Lato Black'
+        Height: =33
+        HoverBorderColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(241, 244, 249, 1)
+        Size: =21
+        Width: =418
+        X: =89
+        Y: =886
+        ZIndex: =50
+
+    Icon1_33 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =89
+        Y: =919
+        ZIndex: =51
+
+    Icon1_34 As icon.HorizontalLine:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =129
+        Y: =919
+        ZIndex: =52
+
+    Icon1_35 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =198
+        Y: =919
+        ZIndex: =53
+
+    Icon1_36 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =169
+        Y: =919
+        ZIndex: =54
+
+    Icon1_37 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =241
+        Y: =919
+        ZIndex: =55
+
+    Icon1_38 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =271
+        Y: =919
+        ZIndex: =56
+
+    Icon1_39 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =312
+        Y: =919
+        ZIndex: =57
+
+    Icon1_40 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =359
+        Y: =919
+        ZIndex: =58
+
+    Icon1_41 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =384
+        Y: =919
+        ZIndex: =59
+
+    Icon1_42 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =416
+        Y: =919
+        ZIndex: =60
+
+    Icon1_43 As icon.HorizontalLine:
+        Color: =RGBA(202, 202, 202, 1)
+        Height: =10
+        Icon: =Icon.HorizontalLine
+        Width: =52
+        X: =455
+        Y: =919
+        ZIndex: =61
+
+    Label5_8 As label:
+        Align: =Align.Center
+        Color: =RGBA(56, 96, 178, 1)
+        Font: =Font.'Lato Black'
+        Height: =29
+        Text: ="Already have an account? "
+        Width: =377
+        X: =95
+        Y: =1030
+        ZIndex: =62
+
+    Button6_1 As button:
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(56, 96, 178, 1)
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Black'
+        Height: =29
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Portal Screen_2')
+        Size: =13
+        Text: ="login"
+        Width: =50
+        X: =384
+        Y: =1030
+        ZIndex: =63
 

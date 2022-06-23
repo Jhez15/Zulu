@@ -119,7 +119,7 @@
     Image6_5 As image:
         Height: =126
         Image: ='9'
-        OnSelect: =Navigate('Profile Screen')
+        OnSelect: =Navigate('Profile Screen_1')
         Width: =159
         X: =441
         Y: =993
@@ -139,7 +139,7 @@
     Button1_1 As button:
         Fill: =RGBA(0, 18, 107, 1)
         Height: =54
-        OnSelect: =Navigate('Profile Screen')
+        OnSelect: =Navigate('Profile Screen_1')
         Size: =24
         Text: ="No"
         Width: =82

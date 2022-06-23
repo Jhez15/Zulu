@@ -1,0 +1,151 @@
+"'Profile Screen_2' As screen":
+
+    Rectangle4_1 As rectangle:
+        Fill: =RGBA(241, 244, 249, 1)
+        Height: =188
+        Width: =640
+        ZIndex: =1
+
+    Label8_6 As label:
+        Align: =Align.Center
+        Font: =Font.Lato
+        Height: =129
+        Size: =28
+        Text: ="Anie Adames"
+        Width: =560
+        X: =39
+        Y: =340
+        ZIndex: =2
+
+    Circle2_1 As circle:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =92
+        Width: =90
+        Y: =677
+        ZIndex: =3
+
+    Circle1_5 As circle:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =208
+        Width: =219
+        X: =210
+        Y: =88
+        ZIndex: =4
+
+    Image3_4 As image:
+        Height: =367
+        Image: ='Anie Adame (5)'
+        Width: =370
+        X: =134
+        Y: =57
+        ZIndex: =5
+
+    Label8_7 As label:
+        Align: =Align.Center
+        Font: =Font.Lato
+        Height: =24
+        Size: =15
+        Text: ="anie.adames2023@mottach.superate.org.pa"
+        Width: =419
+        X: =109
+        Y: =445
+        ZIndex: =6
+
+    Label8_8 As label:
+        Align: =Align.Center
+        Font: =Font.Lato
+        Height: =20
+        Size: =18
+        Text: |-
+            ="Turn: P.M."
+        Width: =131
+        X: =72
+        Y: =519
+        ZIndex: =7
+
+    Label8_9 As label:
+        Align: =Align.Center
+        Font: =Font.Lato
+        Height: =24
+        Size: =18
+        Text: |-
+            ="Level: Junior"
+        Width: =143
+        X: =429
+        Y: =515
+        ZIndex: =8
+
+    Rectangle1_5 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(166, 166, 166, 1)
+        Height: =0
+        Width: =640
+        Y: =619
+        ZIndex: =9
+
+    Rectangle1_6 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(116, 116, 116, 1)
+        Height: =3
+        Width: =640
+        Y: =710
+        ZIndex: =10
+
+    Label8_10 As label:
+        Align: =Align.Center
+        Color: =RGBA(116, 116, 116, 1)
+        Font: =Font.'Lato Black'
+        Height: =36
+        Size: =19
+        Text: ="Mensajes recientes"
+        Width: =233
+        X: =203
+        Y: =646
+        ZIndex: =11
+
+    Label8_11 As label:
+        Align: =Align.Center
+        Color: =RGBA(230, 230, 230, 1)
+        Font: =Font.'Lato Black'
+        Height: =92
+        Size: =19
+        Text: ="No hay mensajes recientes"
+        Width: =445
+        X: =97
+        Y: =839
+        ZIndex: =12
+
+    Image4 As image:
+        Height: =1125
+        Image: ='Anie Adame (6)'
+        Width: =640
+        ZIndex: =15
+
+    Image6 As image:
+        Height: =162
+        Image: ='Diseño sin título (1)'
+        Width: =167
+        X: =54
+        Y: =13
+        ZIndex: =16
+
+    Label7 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =42
+        Size: =29
+        Text: ="ZULU"
+        Width: =165
+        X: =56
+        Y: =171
+        ZIndex: =17
+
+    Rectangle1_7 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =3
+        Width: =226
+        X: =26
+        Y: =239
+        ZIndex: =18
+

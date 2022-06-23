@@ -87,7 +87,7 @@
     Image6_8 As image:
         Height: =126
         Image: ='9'
-        OnSelect: =Navigate('Profile Screen')
+        OnSelect: =Navigate('Profile Screen_1')
         Width: =159
         X: =441
         Y: =993

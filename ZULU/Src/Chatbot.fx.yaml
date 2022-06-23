@@ -12,7 +12,7 @@ Chatbot As screen:
         BorderColor: =RGBA(0, 94, 146, 1)
         Height: =89
         Image: ='17'
-        OnSelect: =Navigate('Profile Screen')
+        OnSelect: =Navigate('Profile Screen_1')
         X: =540
         Y: =-8
         ZIndex: =2
