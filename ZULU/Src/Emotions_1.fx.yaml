@@ -78,7 +78,7 @@
     Image6_7 As image:
         Height: =126
         Image: ='8'
-        OnSelect: =Navigate(Emotions)
+        OnSelect: =Navigate('To relax your mind_1_Serene')
         Width: =159
         X: =240
         Y: =988

@@ -1,0 +1,120 @@
+"'To relax your mind_1_Serene' As screen.'phoneBrowseLayout_ver3.0'":
+    BackgroundImage: ='Anie Adame (8)_1'
+    Fill: =RGBA(235, 248, 248, 1)
+
+    Image13_6 As image:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(255, 255, 255, 1)
+        Height: =112
+        HoverBorderColor: =ColorFade(Self.BorderColor, 100%)
+        Image: ='22_1'
+        ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate('To relax your mind_6_Sad')
+        PressedBorderColor: =ColorFade(Self.BorderColor,  100%)
+        Width: =96
+        X: =512
+        Y: =968
+        ZIndex: =2
+
+    Image8_5 As image:
+        Height: =197
+        Image: ='26'
+        OnSelect: =Navigate('To relax your mind_4_Happy')
+        Width: =102
+        X: =321
+        Y: =916
+        ZIndex: =4
+
+    Image9_5 As image:
+        Height: =179
+        Image: ='24'
+        OnSelect: =Navigate('To relax your mind_2_Anger')
+        Width: =171
+        X: =94
+        Y: =937
+        ZIndex: =5
+
+    Image15_5 As image:
+        Height: =176
+        Image: ='Anie Adame (9)'
+        OnSelect: =Navigate('To relax your mind_5_Insecure')
+        Width: =181
+        X: =377
+        Y: =936
+        ZIndex: =7
+
+    Label5_14 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =36
+        Text: ="Choose a emotion"
+        Width: =560
+        X: =48
+        Y: =134
+        ZIndex: =8
+
+    Circle3_2 As circle:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =277
+        Width: =272
+        X: =192
+        Y: =313
+        ZIndex: =11
+
+    Image7_8 As image:
+        Height: =526
+        Image: ='27'
+        Width: =320
+        X: =168
+        Y: =184
+        ZIndex: =12
+
+    Label5_15 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =36
+        Text: ="Serene"
+        Width: =560
+        X: =48
+        Y: =670
+        ZIndex: =13
+
+    Circle4 As circle:
+        Fill: =RGBA(255, 255, 255, 1)
+        X: =29
+        Y: =964
+        ZIndex: =16
+
+    Image7_7 As image:
+        Height: =179
+        Image: ='27'
+        OnSelect: =Navigate('To relax your mind_1_Serene')
+        Width: =113
+        X: =22
+        Y: =925
+        ZIndex: =17
+
+    Image12_10 As image:
+        Height: =176
+        Image: ='23'
+        OnSelect: =Navigate('To relax your mind_3_Surprised')
+        Width: =129
+        X: =210
+        Y: =940
+        ZIndex: =18
+
+    Icon5 As icon.ArrowLeft:
+        Color: =RGBA(255, 255, 255, 1)
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate('Profile Screen_1')
+        X: =22
+        Y: =36
+        ZIndex: =19
+

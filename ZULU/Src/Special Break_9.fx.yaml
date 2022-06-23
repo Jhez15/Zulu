@@ -1,0 +1,16 @@
+"'Special Break_9' As screen":
+    BackgroundImage: ='28'
+    ImagePosition: =ImagePosition.Fill
+
+    Label8_13 As label:
+        Align: =Align.Center
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =129
+        Size: =45
+        Text: ="Relax your mind"
+        Width: =560
+        X: =43
+        Y: =100
+        ZIndex: =1
+

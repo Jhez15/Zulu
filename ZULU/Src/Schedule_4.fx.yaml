@@ -1,0 +1,149 @@
+Schedule_4 As screen:
+
+    Label7_9 As label:
+        Align: =Align.Center
+        Color: =RGBA(50, 86, 160, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =76
+        Size: =48
+        Text: ="Recorders"
+        Width: =560
+        X: =40
+        Y: =79
+        ZIndex: =1
+
+    Label7_10 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =20
+        Text: |-
+            ="Reminder of the requested of the listening space:  "
+        Width: =470
+        X: =40
+        Y: =258
+        ZIndex: =2
+
+    Label7_11 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =57
+        Size: =16
+        Text: ="Day"
+        Width: =87
+        X: =299
+        Y: =359
+        ZIndex: =3
+
+    Label7_12 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =57
+        Size: =16
+        Text: ="Hours"
+        Width: =87
+        X: =57
+        Y: =359
+        ZIndex: =4
+
+    Label7_13 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =20
+        Text: |-
+            ="Reminder of the completetion of the log:"
+        Width: =470
+        X: =40
+        Y: =539
+        ZIndex: =5
+
+    Label7_14 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =57
+        Size: =16
+        Text: ="Hours"
+        Width: =87
+        X: =57
+        Y: =642
+        ZIndex: =6
+
+    Label7_15 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =57
+        Size: =16
+        Text: ="Day"
+        Width: =87
+        X: =299
+        Y: =642
+        ZIndex: =7
+
+    Label7_16 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =20
+        Text: |-
+            ="Pending messages:"
+        Width: =470
+        X: =40
+        Y: =789
+        ZIndex: =8
+
+    Label7_17 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =57
+        Size: =16
+        Text: ="Hours"
+        Width: =87
+        X: =57
+        Y: =875
+        ZIndex: =9
+
+    Label7_18 As label:
+        Color: =RGBA(128, 128, 128, 1)
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =57
+        Size: =16
+        Text: ="Day"
+        Width: =87
+        X: =299
+        Y: =875
+        ZIndex: =10
+
+    Toggle1 As toggleSwitch:
+        Height: =32
+        Size: =21
+        Width: =100
+        X: =500
+        Y: =275
+        ZIndex: =14
+
+    Toggle1_1 As toggleSwitch:
+        Height: =32
+        Size: =21
+        Width: =100
+        X: =500
+        Y: =549
+        ZIndex: =15
+
+    Toggle1_2 As toggleSwitch:
+        Height: =32
+        Size: =21
+        Width: =100
+        X: =500
+        Y: =806
+        ZIndex: =16
+

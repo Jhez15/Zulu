@@ -554,7 +554,26 @@
         Size: =13
         Text: ="login"
         Width: =50
-        X: =384
+        X: =390
         Y: =1030
         ZIndex: =63
+
+    Button6_9 As button:
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(56, 96, 178, 1)
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =91
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Portal Screen_2')
+        Size: =30
+        Text: ="Log in"
+        Width: =139
+        X: =488
+        Y: =34
+        ZIndex: =64
 

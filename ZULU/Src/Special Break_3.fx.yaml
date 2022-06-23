@@ -1,0 +1,119 @@
+"'Special Break_3' As screen":
+    BackgroundImage: ='Anie Adame (14)_1'
+
+    Label8_19 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =94
+        Size: =32
+        Text: ="Good evening"
+        Width: =320
+        X: =3
+        Y: =60
+        ZIndex: =1
+
+    Image24_1 As image:
+        Height: =603
+        Image: ='Diseño sin título (5)'
+        Width: =636
+        Y: =25
+        ZIndex: =2
+
+    Label8_20 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =94
+        Size: =37
+        Text: ="Jump back in"
+        Width: =320
+        X: =21
+        Y: =519
+        ZIndex: =3
+
+    Image25_1 As image:
+        Height: =170
+        Image: ='4_2'
+        Width: =161
+        X: =36
+        Y: =660
+        ZIndex: =4
+
+    Image26_1 As image:
+        Height: =161
+        Image: ='5_1'
+        Width: =161
+        X: =236
+        Y: =669
+        ZIndex: =5
+
+    Image27_1 As image:
+        Height: =161
+        Image: ='6_2'
+        Width: =157
+        X: =437
+        Y: =669
+        ZIndex: =6
+
+    Label8_21 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =117
+        Size: =14
+        Text: |-
+            ="Meditate
+            Album-Headspace"
+        Width: =386
+        X: =36
+        Y: =849
+        ZIndex: =7
+
+    Label8_22 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =117
+        Size: =14
+        Text: |-
+            ="Relax
+            Album-Headspace"
+        Width: =386
+        X: =240
+        Y: =849
+        ZIndex: =8
+
+    Label8_23 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =117
+        Size: =14
+        Text: |-
+            ="Sleep
+            Album-Headspace"
+        Width: =183
+        X: =437
+        Y: =849
+        ZIndex: =9
+
+    Toggle2 As toggleSwitch:
+        Height: =55
+        Size: =21
+        Width: =70
+        X: =538
+        Y: =60
+        ZIndex: =10
+
+    Label8_24 As label:
+        Align: =Align.Center
+        AutoHeight: =true
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =75
+        Size: =24
+        Text: ="Dark"
+        Width: =243
+        X: =365
+        Y: =40
+        ZIndex: =11
+

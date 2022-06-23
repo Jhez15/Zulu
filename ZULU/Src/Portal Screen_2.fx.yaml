@@ -46,12 +46,13 @@
 
     TextInput5_10 As text:
         BorderColor: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(166, 166, 166, 1)
         Default: =""
-        Font: =Font.'Lato Black'
+        Font: =Font.Lato
         Height: =33
         HoverBorderColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(241, 244, 249, 1)
-        Size: =21
+        Size: =18
         Width: =418
         X: =114
         Y: =573
@@ -302,4 +303,23 @@
         X: =353
         Y: =927
         ZIndex: =30
+
+    Button6_10 As button:
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 13, 75, 1)
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Lato Black'
+        Height: =58
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1')
+        Size: =20
+        Text: ="Go to profile"
+        Width: =342
+        X: =148
+        Y: =801
+        ZIndex: =31
 
