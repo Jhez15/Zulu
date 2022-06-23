@@ -97,16 +97,18 @@
         ZIndex: =9
 
     Toggle2 As toggleSwitch:
+        Default: =true
         Height: =55
+        ShowLabel: =false
         Size: =21
+        TrueFill: =RGBA(0, 13, 75, 1)
         Width: =70
         X: =538
         Y: =60
         ZIndex: =10
 
-    Label8_24 As label:
+    Label8_26 As label:
         Align: =Align.Center
-        AutoHeight: =true
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Height: =75

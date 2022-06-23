@@ -39,7 +39,7 @@
         Height: =87
         HoverBorderColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 0, 18, 107, 1 ), -20%)
-        OnSelect: =Navigate('Portal Screen_1')
+        OnSelect: =Navigate('Special Break_2')
         PressedBorderColor: =RGBA(0, 18, 107, 1)
         Size: =28
         Text: ="Relax Now"
