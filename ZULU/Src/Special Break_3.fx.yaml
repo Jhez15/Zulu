@@ -96,26 +96,25 @@
         Y: =849
         ZIndex: =9
 
-    Toggle2 As toggleSwitch:
-        Default: =true
-        Height: =55
-        ShowLabel: =false
-        Size: =21
-        TrueFill: =RGBA(0, 13, 75, 1)
-        Width: =70
-        X: =538
-        Y: =60
-        ZIndex: =10
-
     Label8_26 As label:
         Align: =Align.Center
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Height: =75
         Size: =24
-        Text: ="Dark"
-        Width: =243
-        X: =365
-        Y: =40
+        Text: ="Light"
+        Width: =183
+        X: =397
+        Y: =29
         ZIndex: =11
+
+    Toggle2_2 As toggleSwitch:
+        Height: =32
+        OnCheck: =Navigate('Special Break_2')
+        ShowLabel: =false
+        Size: =21
+        Width: =98
+        X: =541
+        Y: =51
+        ZIndex: =12
 

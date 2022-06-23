@@ -44,7 +44,7 @@ Schedule_2 As screen:
         Height: =42
         HoverBorderColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 0, 18, 107, 1 ), -20%)
-        OnSelect: =Navigate('Schedule_3')
+        OnSelect: =Navigate(Schedule_3)
         PressedBorderColor: =RGBA(0, 18, 107, 1)
         Size: =18
         Text: ="Continue"

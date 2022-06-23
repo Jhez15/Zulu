@@ -37,7 +37,7 @@ Schedule_1 As screen:
         Font: =Font.'Lato Light'
         Height: =43
         HoverFill: =ColorFade(RGBA( 135, 206, 235, 1 ), 0%)
-        OnSelect: =Navigate('Schedule_2')
+        OnSelect: =Navigate(Schedule_2)
         Size: =33
         Text: ="2"
         Width: =50

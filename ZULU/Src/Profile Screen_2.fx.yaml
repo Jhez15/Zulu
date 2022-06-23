@@ -199,7 +199,7 @@
         Height: =36
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Chatbot')
+        OnSelect: =Navigate(Chatbot)
         Size: =20
         Text: ="Chatbot"
         Width: =172
@@ -237,7 +237,7 @@
         Height: =77
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Portal Screen_1')
+        OnSelect: =Navigate('Special Break_1')
         Size: =20
         Text: ="Special Break"
         Width: =196

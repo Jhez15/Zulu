@@ -88,7 +88,7 @@ Schedule_3 As screen:
     Icon8 As icon.Settings:
         Fill: =RGBA(255, 255, 255, 1)
         Icon: =Icon.Settings
-        OnSelect: =Navigate('Schedule_4')
+        OnSelect: =Navigate(Schedule_4)
         X: =487
         Y: =867
         ZIndex: =7

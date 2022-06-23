@@ -48,3 +48,11 @@
         Y: =886
         ZIndex: =4
 
+    Icon5_7 As icon.ArrowLeft:
+        Color: =RGBA(0, 0, 0, 1)
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate('Profile Screen_1')
+        X: =22
+        Y: =36
+        ZIndex: =5
+
