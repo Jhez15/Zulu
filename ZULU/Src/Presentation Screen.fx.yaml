@@ -17,24 +17,6 @@
         Y: =548
         ZIndex: =2
 
-    Rectangle1 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(0, 74, 173, 1)
-        Height: =0
-        Width: =231
-        X: =213
-        Y: =796
-        ZIndex: =3
-
-    Rectangle1_1 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(0, 74, 173, 1)
-        Height: =3
-        Width: =231
-        X: =212
-        Y: =890
-        ZIndex: =4
-
     "'Start Buttom' As button":
         DisabledBorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(0, 18, 107, 1)
@@ -63,13 +45,4 @@
         X: =114
         Y: =164
         ZIndex: =9
-
-    Rectangle1_2 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(0, 74, 173, 1)
-        Height: =3
-        Width: =231
-        X: =213
-        Y: =796
-        ZIndex: =10
 
