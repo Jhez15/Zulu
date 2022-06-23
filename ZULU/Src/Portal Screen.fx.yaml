@@ -10,8 +10,10 @@
         ZIndex: =1
 
     Button2 As button:
+        DisabledBorderColor: =RGBA(0, 18, 107, 1)
         Fill: =RGBA(9, 33, 98, 1)
         Height: =88
+        HoverBorderColor: =Self.Fill
         Size: =16
         Text: ="Do you already have an account?"
         Width: =324
@@ -46,16 +48,20 @@
     Circle1_3 As circle:
         Fill: =RGBA(9, 33, 98, 1)
         Height: =88
-        Width: =66
+        Width: =78
         X: =118
         Y: =902
         ZIndex: =6
 
     Button4 As button:
+        AutoDisableOnSelect: =false
+        DisabledBorderColor: =RGBA(0, 18, 107, 1)
+        DisabledFill: =RGBA(0, 18, 107, 1)
         Fill: =RGBA(9, 33, 98, 1)
         Height: =61
-        Size: =24
-        Text: =""
+        HoverBorderColor: =Self.Fill
+        Size: =18
+        Text: ="Join up!"
         Width: =239
         X: =196
         Y: =791
