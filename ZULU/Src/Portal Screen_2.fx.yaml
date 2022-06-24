@@ -296,7 +296,7 @@
         Height: =20
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Portal Screen_1')
+        OnSelect: =Navigate('Portal Screen_1', Fade)
         Size: =13
         Text: ="Create an account"
         Width: =154
@@ -315,7 +315,7 @@
         Height: =58
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Profile Screen_1')
+        OnSelect: =Navigate('Profile Screen_1', Fade)
         Size: =20
         Text: ="Go to profile"
         Width: =342

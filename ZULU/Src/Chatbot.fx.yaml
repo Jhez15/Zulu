@@ -1,19 +1,374 @@
 Chatbot As screen:
 
-    ZULU_BOT As powerbi:
-        DashboardId: ="5382302a-d432-4199-97de-008204201367"
-        Height: =1136
-        TileUrl: |-
-            ="https://app.powerbi.com/embed?dashboardId=5382302a-d432-4199-97de-008204201367&tileId=f3cefd87-d8c7-4c8a-b9fd-14875eb9cba8&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLVNPVVRILUNFTlRSQUwtVVMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQiLCJlbWJlZEZlYXR1cmVzIjp7Im1vZGVybkVtYmVkIjpmYWxzZX19"
-        WorkspaceId: ="__my-workspace"
-        ZIndex: =1
+    Image15 As image:
+        Height: =225
+        Image: ='Zulu (6)'
+        Transparency: =0.7
+        Width: =640
+        ZIndex: =4
 
-    Image5_3 As image:
-        BorderColor: =RGBA(0, 94, 146, 1)
-        Height: =89
-        Image: ='17'
+    Icon5_8 As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Profile Screen_1')
-        X: =540
-        Y: =-8
-        ZIndex: =2
+        X: =34
+        Y: =28
+        ZIndex: =5
+
+    Image17 As image:
+        Height: =120
+        Image: ='Zulu (4)'
+        Width: =118
+        X: =261
+        ZIndex: =6
+
+    Image9_1 As image:
+        Height: =181
+        Image: ='Zulu (2)'
+        Width: =414
+        X: =113
+        Y: =73
+        ZIndex: =7
+
+    Image19 As image:
+        Height: =276
+        Image: ='Zulu (8)'
+        Width: =240
+        X: =324
+        Y: =225
+        ZIndex: =9
+
+    Image22 As image:
+        Height: =132
+        Image: ='Diseño sin título (8)'
+        Width: =576
+        X: =32
+        Y: =992
+        ZIndex: =10
+
+    Image29 As image:
+        Height: =296
+        Image: ='Zulu (7)_1'
+        Width: =240
+        X: =76
+        Y: =292
+        ZIndex: =12
+
+    Image19_1 As image:
+        Height: =276
+        Image: ='Zulu (8)'
+        Width: =240
+        X: =313
+        Y: =399
+        ZIndex: =15
+
+    Image29_1 As image:
+        Height: =301
+        Image: ='Zulu (7)_1'
+        Width: =240
+        X: =76
+        Y: =481
+        ZIndex: =16
+
+    Image19_2 As image:
+        Height: =276
+        Image: ='Zulu (8)'
+        Width: =240
+        X: =324
+        Y: =562
+        ZIndex: =17
+
+    Image29_2 As image:
+        Height: =296
+        Image: ='Zulu (7)_1'
+        Width: =240
+        X: =76
+        Y: =135
+        ZIndex: =18
+
+    Image17_1 As image:
+        Height: =64
+        Image: ='Zulu (4)'
+        Width: =58
+        X: =7
+        Y: =267
+        ZIndex: =19
+
+    Image17_2 As image:
+        Height: =64
+        Image: ='Zulu (4)'
+        Width: =58
+        X: =7
+        Y: =431
+        ZIndex: =20
+
+    Image17_3 As image:
+        Height: =64
+        Image: ='Zulu (4)'
+        Width: =58
+        X: =7
+        Y: =629
+        ZIndex: =21
+
+    Image3_5 As image:
+        Height: =151
+        Image: ='Anie Adame (5)'
+        Width: =74
+        X: =566
+        Y: =344
+        ZIndex: =22
+
+    Image3_6 As image:
+        Height: =151
+        Image: ='Anie Adame (5)'
+        Width: =74
+        X: =564
+        Y: =501
+        ZIndex: =23
+
+    Image3_7 As image:
+        Height: =151
+        Image: ='Anie Adame (5)'
+        Width: =74
+        X: =566
+        Y: =652
+        ZIndex: =24
+
+    Image19_3 As image:
+        Height: =276
+        Image: ='Zulu (8)'
+        Width: =240
+        X: =324
+        Y: =730
+        ZIndex: =25
+
+    Image17_4 As image:
+        Height: =64
+        Image: ='Zulu (4)'
+        Width: =58
+        X: =7
+        Y: =797
+        ZIndex: =26
+
+    Image3_8 As image:
+        Height: =151
+        Image: ='Anie Adame (5)'
+        Width: =74
+        X: =566
+        Y: =820
+        ZIndex: =27
+
+    Image29_3 As image:
+        Height: =296
+        Image: ='Zulu (7)_1'
+        Width: =240
+        X: =76
+        Y: =668
+        ZIndex: =28
+
+    TextInput5_5 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(116, 116, 116, 1)
+        Default: ="Write here..."
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Lato Black'
+        Height: =33
+        HoverBorderColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(241, 244, 249, 1)
+        Size: =21
+        Width: =418
+        X: =76
+        Y: =1041
+        ZIndex: =29
+
+    Button6_12 As button:
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =49
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =14.5
+        Text: ="Hi! how you feel today?"
+        Width: =248
+        X: =76
+        Y: =254
+        ZIndex: =30
+
+    Button6_13 As button:
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 13, 75, 1)
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =79
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =18
+        Text: ="Hi! I'm feel sad "
+        Width: =281
+        X: =283
+        Y: =323
+        ZIndex: =31
+
+    Button6_14 As button:
+        Align: =Align.Left
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =86
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =12
+        Text: ="What situations make you feel that way?"
+        Width: =207
+        X: =92
+        Y: =395
+        ZIndex: =32
+
+    Button6_15 As button:
+        Align: =Align.Left
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 13, 75, 1)
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =60
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Text: ="There are problems at home"
+        Width: =237
+        X: =329
+        Y: =505
+        ZIndex: =33
+
+    Button6_16 As button:
+        Align: =Align.Left
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =86
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =12
+        Text: ="What situations make you feel that way?"
+        Width: =207
+        X: =113
+        Y: =456
+        ZIndex: =34
+
+    Button6_17 As button:
+        Align: =Align.Left
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =86
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =12
+        Text: ="You would to talk with a person about this?"
+        Width: =207
+        X: =98
+        Y: =588
+        ZIndex: =35
+
+    Button6_18 As button:
+        Align: =Align.Left
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 13, 75, 1)
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =86
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =16
+        Text: ="Yes, I would like."
+        Width: =207
+        X: =332
+        Y: =657
+        ZIndex: =36
+
+    Button6_19 As button:
+        Align: =Align.Left
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =86
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =12
+        Text: ="Welp, Anie you're capable, I know that you can do it!"
+        Width: =207
+        X: =91
+        Y: =775
+        ZIndex: =37
+
+    Button6_20 As button:
+        Align: =Align.Left
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =86
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =12
+        Text: =""
+        Width: =207
+        X: =329
+        Y: =825
+        ZIndex: =38
+
+    Button6_21 As button:
+        Align: =Align.Left
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 13, 75, 1)
+        DisabledBorderColor: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        Height: =86
+        HoverColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        Size: =16
+        Text: ="Yes, I can."
+        Width: =207
+        X: =331
+        Y: =824
+        ZIndex: =39
 

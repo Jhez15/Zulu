@@ -147,3 +147,10 @@ Schedule_4 As screen:
         Y: =806
         ZIndex: =16
 
+    Icon5_14 As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate('Profile Screen_1', Fade)
+        X: =22
+        Y: =36
+        ZIndex: =17
+

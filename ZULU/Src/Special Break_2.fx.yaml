@@ -1,5 +1,6 @@
 "'Special Break_2' As screen":
     BackgroundImage: ='Anie Adame (12)_1'
+    OnVisible: =false
 
     Label8_14 As label:
         Align: =Align.Center
@@ -36,6 +37,7 @@
     Image25 As image:
         Height: =170
         Image: ='4_2'
+        OnSelect: =Navigate('Background Music', Fade)
         Width: =161
         X: =36
         Y: =660
@@ -111,7 +113,7 @@
         Color: =RGBA(0, 0, 0, 1)
         Height: =46
         Icon: =Icon.ArrowLeft
-        OnSelect: =Navigate('Profile Screen_1')
+        OnSelect: =Navigate('Special Break_1', Fade);
         Width: =46
         X: =36
         Y: =28

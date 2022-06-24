@@ -97,7 +97,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "es-ES"
+    "UserLocale": "en-US"
   },
   "ScreenOrder": [
     "Presentation Screen",
@@ -126,6 +126,7 @@
     "Special Break_6",
     "Special Break_7",
     "Special Break_8",
-    "Special Break_9"
+    "Special Break_9",
+    "Background Music"
   ]
 }

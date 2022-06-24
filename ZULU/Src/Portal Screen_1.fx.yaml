@@ -550,7 +550,7 @@
         Height: =29
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Portal Screen_2')
+        OnSelect: =Navigate('Portal Screen_2', Fade)
         Size: =13
         Text: ="login"
         Width: =50
@@ -569,7 +569,7 @@
         Height: =91
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Portal Screen_2')
+        OnSelect: =Navigate('Portal Screen_2', Fade)
         Size: =30
         Text: ="Log in"
         Width: =139

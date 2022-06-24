@@ -3,32 +3,6 @@
     Fill: =RGBA(255, 255, 255, 1)
     ImagePosition: =ImagePosition.Fill
 
-    Label2 As label:
-        Align: =Align.Center
-        Color: =RGBA(0, 74, 173, 1)
-        Font: =Font.'Lato Light'
-        FontWeight: =FontWeight.Bold
-        Height: =70
-        PaddingTop: =0
-        Size: =40
-        Text: ="ZULU"
-        Width: =600
-        X: =28
-        Y: =548
-        ZIndex: =2
-
-    "'Start Buttom' As button":
-        DisabledBorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(0, 18, 107, 1)
-        Height: =70
-        OnSelect: =Navigate('Portal Screen')
-        Size: =24
-        Text: ="START"
-        Width: =280
-        X: =188
-        Y: =808
-        ZIndex: =7
-
     Label12 As label:
         Height: =70
         Size: =21
@@ -39,10 +13,27 @@
         ZIndex: =8
 
     Image3_2 As image:
-        Height: =414
+        Height: =725
         Image: ='Logo Acrediitación Azul'
-        Width: =428
-        X: =114
-        Y: =164
+        OnSelect: =Navigate('Portal Screen', Fade)
+        Width: =602
+        X: =19
+        Y: =110
         ZIndex: =9
+
+    Image9 As image:
+        Height: =441
+        Image: ='Zulu (2)'
+        Width: =414
+        X: =113
+        Y: =565
+        ZIndex: =10
+
+    Image11 As image:
+        Height: =500
+        Image: ='Zulu (3)'
+        Width: =520
+        X: =60
+        Y: =635
+        ZIndex: =11
 

@@ -39,7 +39,7 @@
         Height: =87
         HoverBorderColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 0, 18, 107, 1 ), -20%)
-        OnSelect: =Navigate('Special Break_2')
+        OnSelect: =Navigate('Special Break_2', Fade)
         PressedBorderColor: =RGBA(0, 18, 107, 1)
         Size: =28
         Text: ="Relax Now"
@@ -51,7 +51,7 @@
     Icon5_7 As icon.ArrowLeft:
         Color: =RGBA(0, 0, 0, 1)
         Icon: =Icon.ArrowLeft
-        OnSelect: =Navigate('Profile Screen_1')
+        OnSelect: =Navigate('Profile Screen_1', Fade)
         X: =22
         Y: =36
         ZIndex: =5

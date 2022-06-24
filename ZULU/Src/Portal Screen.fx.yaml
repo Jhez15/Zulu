@@ -15,7 +15,7 @@
         Height: =88
         HoverBorderColor: =Self.Fill
         HoverFill: =ColorFade(RGBA(0, 18, 107, 1), -20%)
-        OnSelect: =Navigate('Portal Screen_2')
+        OnSelect: =Navigate('Portal Screen_2', Fade)
         Size: =16
         Text: ="Do you already have an account?"
         Width: =324
@@ -63,7 +63,7 @@
         Height: =61
         HoverBorderColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 0, 18, 107, 1 ), -20%)
-        OnSelect: =Navigate('Portal Screen_1')
+        OnSelect: =Navigate('Portal Screen_1', Fade)
         PressedBorderColor: =RGBA(0, 18, 107, 1)
         Size: =18
         Text: ="Join up!"

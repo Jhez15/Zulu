@@ -14,7 +14,7 @@ Schedule_1 As screen:
 
     Icon5_6 As icon.ArrowLeft:
         Icon: =Icon.ArrowLeft
-        OnSelect: =Navigate('Profile Screen_1')
+        OnSelect: =Navigate('Profile Screen_1', Fade)
         X: =22
         Y: =36
         ZIndex: =2
@@ -37,7 +37,7 @@ Schedule_1 As screen:
         Font: =Font.'Lato Light'
         Height: =43
         HoverFill: =ColorFade(RGBA( 135, 206, 235, 1 ), 0%)
-        OnSelect: =Navigate(Schedule_2)
+        OnSelect: =Navigate(Schedule_2, Fade)
         Size: =33
         Text: ="2"
         Width: =50

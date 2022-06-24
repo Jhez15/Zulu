@@ -123,7 +123,7 @@
         Height: =94
         HoverBorderColor: =ColorFade(Self.BorderColor, -100%)
         Icon: =Icon.More
-        OnSelect: =Navigate('Profile Screen_2')
+        OnSelect: =Navigate('Profile Screen_2', Fade)
         Width: =95
         X: =26
         Y: =30

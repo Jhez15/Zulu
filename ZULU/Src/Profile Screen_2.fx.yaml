@@ -161,7 +161,7 @@
         Height: =36
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Profile Screen_1')
+        OnSelect: =Navigate('Profile Screen_1', Fade)
         Size: =20
         Text: ="Profile"
         Width: =172
@@ -180,7 +180,7 @@
         Height: =36
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate(Schedule_1)
+        OnSelect: =Navigate('Schedule_1', Fade)
         Size: =20
         Text: ="Schedule"
         Width: =172
@@ -199,7 +199,7 @@
         Height: =36
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate(Chatbot)
+        OnSelect: =Navigate('Chatbot', Fade)
         Size: =20
         Text: ="Chatbot"
         Width: =172
@@ -218,7 +218,7 @@
         Height: =77
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('To relax your mind_1_Serene')
+        OnSelect: =Navigate('To relax your mind_1_Serene', Fade)
         Size: =20
         Text: ="How do you feel?"
         Width: =196
@@ -237,7 +237,7 @@
         Height: =77
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Special Break_1')
+        OnSelect: =Navigate('Special Break_1', Fade)
         Size: =20
         Text: ="Special Break"
         Width: =196
