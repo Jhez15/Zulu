@@ -38,6 +38,7 @@
     Image3 As image:
         Height: =367
         Image: ='Anie Adame (5)'
+        OnSelect: =Navigate('Presentation Screen', Fade)
         Width: =370
         X: =134
         Y: =57
@@ -47,10 +48,10 @@
         Align: =Align.Center
         Font: =Font.Lato
         Height: =24
-        Size: =15
+        Size: =17
         Text: ="anie.adames2023@mottach.superate.org.pa"
-        Width: =419
-        X: =109
+        Width: =447
+        X: =90
         Y: =445
         ZIndex: =19
 
@@ -128,10 +129,4 @@
         X: =26
         Y: =30
         ZIndex: =27
-
-    Icon9 As icon.Settings:
-        Icon: =Icon.Settings
-        X: =542
-        Y: =45
-        ZIndex: =28
 

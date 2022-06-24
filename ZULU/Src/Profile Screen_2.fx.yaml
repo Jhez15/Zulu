@@ -35,6 +35,7 @@
     Image3_4 As image:
         Height: =367
         Image: ='Anie Adame (5)'
+        OnSelect: =Navigate('Presentation Screen', Fade)
         Width: =370
         X: =134
         Y: =57
@@ -130,17 +131,6 @@
         Y: =13
         ZIndex: =16
 
-    Label7 As label:
-        Align: =Align.Center
-        Color: =RGBA(255, 255, 255, 1)
-        Height: =42
-        Size: =29
-        Text: ="ZULU"
-        Width: =165
-        X: =56
-        Y: =171
-        ZIndex: =17
-
     Rectangle1_7 As rectangle:
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(255, 255, 255, 1)
@@ -180,7 +170,7 @@
         Height: =36
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Schedule_1', Fade)
+        OnSelect: =Navigate(Schedule_1, Fade)
         Size: =20
         Text: ="Schedule"
         Width: =172
@@ -199,7 +189,7 @@
         Height: =36
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Chatbot', Fade)
+        OnSelect: =Navigate(Chatbot, Fade)
         Size: =20
         Text: ="Chatbot"
         Width: =172
@@ -308,4 +298,12 @@
         X: =26
         Y: =896
         ZIndex: =34
+
+    Image2 As image:
+        Height: =185
+        Image: ='Zulu (10)'
+        Width: =242
+        X: =14
+        Y: =99
+        ZIndex: =35
 
