@@ -1,5 +1,6 @@
 "'Special Break_1' As screen":
     BackgroundImage: ='Parte de resentación '
+    ImagePosition: =ImagePosition.Fill
 
     Label8_12 As label:
         Align: =Align.Center

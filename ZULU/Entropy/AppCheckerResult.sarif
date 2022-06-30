@@ -14,1326 +14,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Icon5_2.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Icon5_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Icon5_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Icon5_2.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Icon5_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Icon5_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image7_11.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image7_11.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image7_11"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image7_11.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image7_11.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image7_11"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image12_12.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image12_12.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image12_12"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image12_12.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image12_12.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image12_12"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image15_6.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image15_6.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image15_6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image15_6.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image15_6.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image15_6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image15_10.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image15_10.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image15_10"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image15_10.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image15_10.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image15_10"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image8_8.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image8_8.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image8_8"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image8_8.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image8_8.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image8_8"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image9_6.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image9_6.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image9_6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image9_6.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image9_6.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_4_Happy",
-                "type": "'To relax your mind_4_Happy'.Image9_6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Portal Screen_2'.TextInput5_10.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Portal Screen_2'.TextInput5_10.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Portal Screen_2",
-                "type": "'Portal Screen_2'.TextInput5_10"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Portal Screen_2'.TextInput5_11.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Portal Screen_2'.TextInput5_11.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Portal Screen_2",
-                "type": "'Portal Screen_2'.TextInput5_11"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Special Break_3'.Icon5_10.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Special Break_3'.Icon5_10.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Special Break_3",
-                "type": "'Special Break_3'.Icon5_10"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Special Break_3'.Icon5_10.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Special Break_3'.Icon5_10.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Special Break_3",
-                "type": "'Special Break_3'.Icon5_10"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Special Break_3'.Image25_1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Special Break_3'.Image25_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Special Break_3",
-                "type": "'Special Break_3'.Image25_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Special Break_3'.Toggle2_2.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Special Break_3'.Toggle2_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Special Break_3",
-                "type": "'Special Break_3'.Toggle2_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Special Break_3'.Image25_1.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Special Break_3'.Image25_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Special Break_3",
-                "type": "'Special Break_3'.Image25_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Icon5_4.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Icon5_4.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Icon5_4"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Icon5_4.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Icon5_4.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Icon5_4"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image9_7.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image9_7.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image9_7"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image9_7.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image9_7.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image9_7"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image15_8.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image15_8.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image15_8"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image15_8.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image15_8.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image15_8"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image12_11.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image12_11.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image12_11"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image12_11.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image12_11.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image12_11"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image7_9.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image7_9.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image7_9"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image7_9.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image7_9.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image7_9"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image8_6.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image8_6.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image8_6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image8_6.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image8_6.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image8_6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image13_8.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image13_8.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image13_8"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image13_8.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image13_8.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_2_Anger",
-                "type": "'To relax your mind_2_Anger'.Image13_8"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Schedule_4.Icon5_14.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Schedule_4.Icon5_14.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Schedule_4",
-                "type": "Schedule_4.Icon5_14"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Schedule_4.Icon5_14.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Schedule_4.Icon5_14.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Schedule_4",
-                "type": "Schedule_4.Icon5_14"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Schedule_4.Toggle1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Schedule_4.Toggle1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Schedule_4",
-                "type": "Schedule_4.Toggle1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Schedule_4.Toggle1_1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Schedule_4.Toggle1_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Schedule_4",
-                "type": "Schedule_4.Toggle1_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Schedule_4.Toggle1_2.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Schedule_4.Toggle1_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Schedule_4",
-                "type": "Schedule_4.Toggle1_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Presentation Screen'.Image3_2.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Presentation Screen'.Image3_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Presentation Screen",
-                "type": "'Presentation Screen'.Image3_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Presentation Screen'.Image3_2.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Presentation Screen'.Image3_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Presentation Screen",
-                "type": "'Presentation Screen'.Image3_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Schedule_1.Icon5_6.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Schedule_1.Icon5_6.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Schedule_1",
-                "type": "Schedule_1.Icon5_6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Schedule_1.Icon5_6.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Schedule_1.Icon5_6.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Schedule_1",
-                "type": "Schedule_1.Icon5_6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "Schedule_2.Icon5_12.AccessibleLabel"
                 }
               ],
@@ -1604,6 +284,66 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "'Profile Screen_1'.Image8_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Profile Screen_1'.Image8_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Profile Screen_1",
+                "type": "'Profile Screen_1'.Image8_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Profile Screen_1'.Image8_1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Profile Screen_1'.Image8_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Profile Screen_1",
+                "type": "'Profile Screen_1'.Image8_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "'Special Break_1'.Icon5_7.AccessibleLabel"
                 }
               ],
@@ -1658,36 +398,6 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Background Music'.Toggle2_1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Background Music'.Toggle2_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Background Music",
-                "type": "'Background Music'.Toggle2_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
         },
         {
           "locations": [
@@ -1754,6 +464,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "'Background Music'.Toggle2_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Background Music'.Toggle2_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Background Music",
+                "type": "'Background Music'.Toggle2_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "'Profile Screen_2'.Image6.AccessibleLabel"
                 }
               ],
@@ -1808,6 +548,66 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Portal Screen_2'.TextInput5_10.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Portal Screen_2'.TextInput5_10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Portal Screen_2",
+                "type": "'Portal Screen_2'.TextInput5_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Portal Screen_2'.TextInput5_11.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Portal Screen_2'.TextInput5_11.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Portal Screen_2",
+                "type": "'Portal Screen_2'.TextInput5_11"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -2444,19 +1244,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image13_9.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image8_11.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image13_9.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image8_11.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image13_9"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image8_11"
               }
             }
           ],
@@ -2474,19 +1274,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image13_9.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image8_11.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image13_9.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image8_11.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image13_9"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image8_11"
               }
             }
           ],
@@ -2504,19 +1304,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image8_9.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image7_13.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image8_9.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image7_13.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image8_9"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image7_13"
               }
             }
           ],
@@ -2534,19 +1334,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image8_9.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image7_13.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image8_9.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image7_13.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image8_9"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image7_13"
               }
             }
           ],
@@ -2564,19 +1364,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image15_9.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image9_10.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image15_9.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image9_10.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image15_9"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image9_10"
               }
             }
           ],
@@ -2594,19 +1394,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image15_9.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image9_10.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image15_9.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image9_10.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image15_9"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image9_10"
               }
             }
           ],
@@ -2624,19 +1424,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image7_10.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image12_14.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image7_10.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image12_14.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image7_10"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image12_14"
               }
             }
           ],
@@ -2654,19 +1454,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image7_10.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image12_14.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image7_10.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image12_14.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image7_10"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image12_14"
               }
             }
           ],
@@ -2684,19 +1484,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image12_15.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image15_11.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image12_15.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image15_11.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image12_15"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image15_11"
               }
             }
           ],
@@ -2714,19 +1514,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image12_15.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image15_11.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image12_15.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image15_11.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image12_15"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image15_11"
               }
             }
           ],
@@ -2744,19 +1544,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image9_8.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image13_11.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image9_8.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image13_11.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image9_8"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image13_11"
               }
             }
           ],
@@ -2774,19 +1574,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image9_8.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image13_11.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image9_8.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image13_11.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_3_Surprised",
-                "type": "'To relax your mind_3_Surprised'.Image9_8"
+                "module": "To relax your mind_6_Sad",
+                "type": "'To relax your mind_6_Sad'.Image13_11"
               }
             }
           ],
@@ -2984,19 +1784,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image12_13.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image8_8.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image12_13.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image8_8.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image12_13"
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image8_8"
               }
             }
           ],
@@ -3014,19 +1814,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image12_13.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image8_8.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image12_13.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image8_8.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image12_13"
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image8_8"
               }
             }
           ],
@@ -3044,19 +1844,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image13_10.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image7_11.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image13_10.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image7_11.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image13_10"
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image7_11"
               }
             }
           ],
@@ -3074,19 +1874,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image13_10.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image7_11.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image13_10.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image7_11.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image13_10"
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image7_11"
               }
             }
           ],
@@ -3104,19 +1904,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image9_9.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image9_6.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image9_9.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image9_6.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image9_9"
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image9_6"
               }
             }
           ],
@@ -3134,19 +1934,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image9_9.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image9_6.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image9_9.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image9_6.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image9_9"
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image9_6"
               }
             }
           ],
@@ -3164,19 +1964,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image7_12.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image12_12.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image7_12.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image12_12.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image7_12"
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image12_12"
               }
             }
           ],
@@ -3194,19 +1994,79 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image7_12.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image12_12.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image7_12.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image12_12.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image7_12"
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image12_12"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image15_6.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image15_6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image15_6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image15_6.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_4_Happy'.Image15_6.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_4_Happy",
+                "type": "'To relax your mind_4_Happy'.Image15_6"
               }
             }
           ],
@@ -3284,66 +2144,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image8_10.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image8_10.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image8_10"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image8_10.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image8_10.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "To relax your mind_5_Insecure",
-                "type": "'To relax your mind_5_Insecure'.Image8_10"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "'Profile Screen_3'.Image6_1.AccessibleLabel"
                 }
               ],
@@ -3387,6 +2187,426 @@
                 "member": "TabIndex",
                 "module": "Profile Screen_3",
                 "type": "'Profile Screen_3'.Image6_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Icon5_2.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Icon5_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Icon5_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Icon5_2.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Icon5_2.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Icon5_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image8_9.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image8_9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image8_9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image8_9.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image8_9.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image8_9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image7_10.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image7_10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image7_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image7_10.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image7_10.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image7_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image9_8.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image9_8.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image9_8"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image9_8.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image9_8.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image9_8"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image12_15.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image12_15.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image12_15"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image12_15.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image12_15.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image12_15"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image15_9.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image15_9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image15_9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image15_9.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image15_9.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image15_9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image13_9.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image13_9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image13_9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image13_9.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_3_Surprised'.Image13_9.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_3_Surprised",
+                "type": "'To relax your mind_3_Surprised'.Image13_9"
               }
             }
           ],
@@ -3884,19 +3104,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image12_14.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image8_6.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image12_14.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image8_6.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image12_14"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image8_6"
               }
             }
           ],
@@ -3914,19 +3134,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image12_14.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image8_6.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image12_14.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image8_6.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image12_14"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image8_6"
               }
             }
           ],
@@ -3944,19 +3164,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image13_11.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image9_7.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image13_11.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image9_7.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image13_11"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image9_7"
               }
             }
           ],
@@ -3974,19 +3194,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image13_11.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image9_7.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image13_11.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image9_7.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image13_11"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image9_7"
               }
             }
           ],
@@ -4004,19 +3224,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image7_13.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image7_9.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image7_13.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image7_9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image7_9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image7_9.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image7_9.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image7_13"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image7_9"
               }
             }
           ],
@@ -4034,19 +3284,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image7_13.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image12_11.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image7_13.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image12_11.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image7_13"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image12_11"
               }
             }
           ],
@@ -4064,49 +3314,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image9_10.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image12_11.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image9_10.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image9_10"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image9_10.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image9_10.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image12_11.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image9_10"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image12_11"
               }
             }
           ],
@@ -4124,19 +3344,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image15_11.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image15_8.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image15_11.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image15_8.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image15_11"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image15_8"
               }
             }
           ],
@@ -4154,19 +3374,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image15_11.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image15_8.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image15_11.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image15_8.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image15_11"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image15_8"
               }
             }
           ],
@@ -4184,19 +3404,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image8_11.AccessibleLabel"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image13_8.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image8_11.AccessibleLabel",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image13_8.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image8_11"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image13_8"
               }
             }
           ],
@@ -4214,19 +3434,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image8_11.TabIndex"
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image13_8.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'To relax your mind_6_Sad'.Image8_11.TabIndex",
+                  "fullyQualifiedName": "'To relax your mind_2_Anger'.Image13_8.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "To relax your mind_6_Sad",
-                "type": "'To relax your mind_6_Sad'.Image8_11"
+                "module": "To relax your mind_2_Anger",
+                "type": "'To relax your mind_2_Anger'.Image13_8"
               }
             }
           ],
@@ -4244,19 +3464,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Profile Screen_1'.Image8_1.AccessibleLabel"
+                  "fullyQualifiedName": "'Special Break_3'.Icon5_10.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Profile Screen_1'.Image8_1.AccessibleLabel",
+                  "fullyQualifiedName": "'Special Break_3'.Icon5_10.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Profile Screen_1",
-                "type": "'Profile Screen_1'.Image8_1"
+                "module": "Special Break_3",
+                "type": "'Special Break_3'.Icon5_10"
               }
             }
           ],
@@ -4274,19 +3494,799 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Profile Screen_1'.Image8_1.TabIndex"
+                  "fullyQualifiedName": "'Special Break_3'.Icon5_10.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Profile Screen_1'.Image8_1.TabIndex",
+                  "fullyQualifiedName": "'Special Break_3'.Icon5_10.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "Profile Screen_1",
-                "type": "'Profile Screen_1'.Image8_1"
+                "module": "Special Break_3",
+                "type": "'Special Break_3'.Icon5_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Special Break_3'.Toggle2_2.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Special Break_3'.Toggle2_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Special Break_3",
+                "type": "'Special Break_3'.Toggle2_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Special Break_3'.Image25_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Special Break_3'.Image25_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Special Break_3",
+                "type": "'Special Break_3'.Image25_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Special Break_3'.Image25_1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Special Break_3'.Image25_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Special Break_3",
+                "type": "'Special Break_3'.Image25_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Icon5_4.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Icon5_4.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Icon5_4"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Icon5_4.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Icon5_4.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Icon5_4"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image8_10.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image8_10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image8_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image8_10.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image8_10.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image8_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image7_12.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image7_12.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image7_12"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image7_12.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image7_12.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image7_12"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image9_9.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image9_9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image9_9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image9_9.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image9_9.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image9_9"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image12_13.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image12_13.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image12_13"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image12_13.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image12_13.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image12_13"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image15_10.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image15_10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image15_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image15_10.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image15_10.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image15_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image13_10.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image13_10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image13_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image13_10.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'To relax your mind_5_Insecure'.Image13_10.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "To relax your mind_5_Insecure",
+                "type": "'To relax your mind_5_Insecure'.Image13_10"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Schedule_4.Icon5_14.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Schedule_4.Icon5_14.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Schedule_4",
+                "type": "Schedule_4.Icon5_14"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Schedule_4.Icon5_14.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Schedule_4.Icon5_14.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Schedule_4",
+                "type": "Schedule_4.Icon5_14"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Schedule_4.Toggle1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Schedule_4.Toggle1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Schedule_4",
+                "type": "Schedule_4.Toggle1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Schedule_4.Toggle1_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Schedule_4.Toggle1_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Schedule_4",
+                "type": "Schedule_4.Toggle1_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Schedule_4.Toggle1_2.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Schedule_4.Toggle1_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Schedule_4",
+                "type": "Schedule_4.Toggle1_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Presentation Screen'.Image3_2.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Presentation Screen'.Image3_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Presentation Screen",
+                "type": "'Presentation Screen'.Image3_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Presentation Screen'.Image3_2.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Presentation Screen'.Image3_2.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Presentation Screen",
+                "type": "'Presentation Screen'.Image3_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Schedule_1.Icon5_6.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Schedule_1.Icon5_6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Schedule_1",
+                "type": "Schedule_1.Icon5_6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Schedule_1.Icon5_6.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Schedule_1.Icon5_6.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Schedule_1",
+                "type": "Schedule_1.Icon5_6"
               }
             }
           ],
