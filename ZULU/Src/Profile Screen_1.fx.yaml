@@ -35,15 +35,6 @@
         Y: =88
         ZIndex: =16
 
-    Image3 As image:
-        Height: =367
-        Image: ='Anie Adame (5)'
-        OnSelect: =Navigate('Presentation Screen', Fade)
-        Width: =370
-        X: =429
-        Y: =49
-        ZIndex: =18
-
     Label8_1 As label:
         Align: =Align.Center
         Font: =Font.Lato
@@ -129,4 +120,12 @@
         X: =26
         Y: =30
         ZIndex: =27
+
+    Image8_1 As image:
+        Height: =219
+        Image: ='Anie Adame foto'
+        Width: =201
+        X: =235
+        Y: =82
+        ZIndex: =28
 

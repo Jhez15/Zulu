@@ -20,7 +20,7 @@
         Size: =32
         Text: ="Good evening"
         Width: =320
-        X: =422
+        X: =320
         Y: =28
         ZIndex: =14
 
@@ -28,7 +28,7 @@
         Height: =591
         Image: ='Diseño sin título (5)'
         Width: =623
-        X: =21
+        X: =17
         Y: =49
         ZIndex: =15
 
@@ -41,7 +41,7 @@
         Size: =37
         Text: ="Jump back in"
         Width: =320
-        X: =661
+        X: =320
         Y: =122
         ZIndex: =16
 
@@ -50,7 +50,7 @@
         Image: ='4_2'
         OnSelect: =Navigate('Background Music', Fade)
         Width: =161
-        X: =683
+        X: =479
         Y: =216
         ZIndex: =17
 
@@ -58,7 +58,7 @@
         Height: =161
         Image: ='5_1'
         Width: =161
-        X: =890
+        X: =479
         Y: =219
         ZIndex: =18
 
@@ -66,7 +66,7 @@
         Height: =161
         Image: ='6_2'
         Width: =157
-        X: =683
+        X: =483
         Y: =462
         ZIndex: =19
 
@@ -79,7 +79,7 @@
             ="Meditate
             Album-Headspace"
         Width: =386
-        X: =683
+        X: =254
         Y: =362
         ZIndex: =20
 
@@ -92,7 +92,7 @@
             ="Sleep
             Album-Headspace"
         Width: =183
-        X: =853
+        X: =457
         Y: =523
         ZIndex: =21
 
@@ -103,7 +103,7 @@
         Size: =24
         Text: ="Dark"
         Width: =118
-        X: =933
+        X: =522
         Y: =34
         ZIndex: =22
 
@@ -112,7 +112,7 @@
         OnSelect: =Navigate('Special Break_3')
         Size: =21
         Width: =55
-        X: =1049
+        X: =585
         Y: =42
         ZIndex: =23
 
@@ -125,7 +125,7 @@
             ="Relax
             Album-Headspace"
         Width: =183
-        X: =890
+        X: =457
         Y: =362
         ZIndex: =24
 

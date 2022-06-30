@@ -14,7 +14,7 @@
         OnSelect: =Navigate('To relax your mind_6_Sad')
         PressedBorderColor: =ColorFade(Self.BorderColor,  100%)
         Width: =96
-        X: =994
+        X: =544
         Y: =496
         ZIndex: =2
 
@@ -23,7 +23,7 @@
         Image: ='26'
         OnSelect: =Navigate('To relax your mind_4_Happy')
         Width: =102
-        X: =635
+        X: =538
         Y: =443
         ZIndex: =4
 
@@ -41,7 +41,7 @@
         Image: ='Anie Adame (9)'
         OnSelect: =Navigate('To relax your mind_5_Insecure')
         Width: =181
-        X: =761
+        X: =459
         Y: =464
         ZIndex: =7
 
@@ -54,7 +54,7 @@
         Size: =36
         Text: ="Choose a emotion"
         Width: =560
-        X: =321
+        X: =80
         Y: =44
         ZIndex: =8
 
@@ -62,7 +62,7 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =277
         Width: =272
-        X: =465
+        X: =368
         Y: =126
         ZIndex: =11
 
@@ -70,7 +70,7 @@
         Height: =526
         Image: ='27'
         Width: =320
-        X: =441
+        X: =320
         Y: =2
         ZIndex: =12
 
@@ -83,7 +83,7 @@
         Size: =36
         Text: ="Serene"
         Width: =560
-        X: =305
+        X: =80
         Y: =403
         ZIndex: =13
 
