@@ -7,7 +7,7 @@
         Image: ='Diseño sin título (6)'
         ImagePosition: =ImagePosition.Fill
         Width: =393
-        X: =415
+        X: =247
         ZIndex: =1
 
     Label8_27 As label:
@@ -17,7 +17,7 @@
         Size: =24
         Text: ="Light"
         Width: =118
-        X: =953
+        X: =522
         Y: =31
         ZIndex: =2
 
@@ -26,7 +26,7 @@
         OnSelect: =Navigate('Special Break_3')
         Size: =21
         Width: =55
-        X: =1056
+        X: =585
         Y: =37
         ZIndex: =3
 
@@ -34,7 +34,7 @@
         Height: =333
         Image: ='Diseño sin título (7)'
         Width: =424
-        X: =384
+        X: =216
         Y: =307
         ZIndex: =4
 
@@ -48,7 +48,7 @@
             ="Meditate 
             Headspace"
         Width: =267
-        X: =429
+        X: =373
         Y: =380
         ZIndex: =5
 

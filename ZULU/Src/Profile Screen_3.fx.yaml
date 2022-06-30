@@ -1,6 +1,14 @@
 "'Profile Screen_3' As screen":
     Fill: =RGBA(255, 255, 255, 1)
 
+    Rectangle1_9 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(116, 116, 116, 1)
+        Height: =3
+        Width: =640
+        Y: =519
+        ZIndex: =1
+
     Label8_30 As label:
         Align: =Align.Center
         Font: =Font.Lato
@@ -11,14 +19,14 @@
         Width: =143
         X: =179
         Y: =407
-        ZIndex: =1
+        ZIndex: =2
 
     Rectangle4_2 As rectangle:
         BorderColor: =RGBA(253, 222, 207, 1)
         Fill: =RGBA(237, 237, 237, 1)
         Height: =154
         Width: =640
-        ZIndex: =2
+        ZIndex: =3
 
     Image8_2 As image:
         Height: =248
@@ -26,7 +34,7 @@
         Width: =244
         X: =253
         Y: =27
-        ZIndex: =3
+        ZIndex: =4
 
     Label8_32 As label:
         Align: =Align.Center
@@ -36,9 +44,9 @@
         Size: =19
         Text: ="Recent Messages"
         Width: =233
-        X: =203
-        Y: =494
-        ZIndex: =4
+        X: =232
+        Y: =486
+        ZIndex: =5
 
     Label8_33 As label:
         Align: =Align.Center
@@ -48,15 +56,15 @@
         Size: =19
         Text: ="You don't have messages"
         Width: =445
-        X: =137
-        Y: =548
-        ZIndex: =5
+        X: =126
+        Y: =714
+        ZIndex: =6
 
     Rectangle1_1 As rectangle:
         Fill: =RGBA(0, 18, 107, 0.83)
-        Height: =640
-        Width: =286
-        ZIndex: =6
+        Height: =1136
+        Width: =287
+        ZIndex: =7
 
     Label8_28 As label:
         Align: =Align.Center
@@ -67,7 +75,7 @@
         Width: =560
         X: =80
         Y: =231
-        ZIndex: =7
+        ZIndex: =8
 
     Label8_29 As label:
         Align: =Align.Center
@@ -78,7 +86,7 @@
         Width: =534
         X: =106
         Y: =317
-        ZIndex: =8
+        ZIndex: =9
 
     Label8_31 As label:
         Align: =Align.Center
@@ -90,14 +98,6 @@
         Width: =131
         X: =399
         Y: =409
-        ZIndex: =9
-
-    Rectangle1_9 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(116, 116, 116, 1)
-        Height: =3
-        Width: =640
-        Y: =456
         ZIndex: =10
 
     Image6_1 As image:
@@ -209,8 +209,8 @@
         Size: =20
         Text: ="Special Break"
         Width: =196
-        X: =39
-        Y: =563
+        X: =42
+        Y: =637
         ZIndex: =17
 
     Rectangle1_21 As rectangle:
@@ -255,7 +255,7 @@
         Height: =3
         Width: =226
         X: =24
-        Y: =637
+        Y: =727
         ZIndex: =22
 
     Image2_1 As image:
@@ -265,25 +265,6 @@
         X: =44
         Y: =132
         ZIndex: =23
-
-    Button6_27 As button:
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(255, 255, 255, 1)
-        DisabledColor: =RGBA(255, 255, 255, 1)
-        DisabledFill: =RGBA(56, 96, 178, 1)
-        Fill: =RGBA(0, 0, 0, 0)
-        Font: =Font.'Lato Light'
-        FontWeight: =FontWeight.Bold
-        Height: =77
-        HoverColor: =RGBA(0, 18, 107, 1)
-        HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
-        OnSelect: =Navigate('Portal Screen_1')
-        Size: =20
-        Text: ="Sign off"
-        Width: =196
-        X: =287
-        Y: =539
-        ZIndex: =24
 
     Button6_28 As button:
         BorderStyle: =BorderStyle.None
@@ -301,6 +282,6 @@
         Text: ="Sign off"
         Width: =196
         X: =126
-        Y: =563
+        Y: =1046
         ZIndex: =25
 

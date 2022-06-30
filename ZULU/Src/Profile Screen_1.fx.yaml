@@ -104,10 +104,10 @@
         Font: =Font.'Lato Black'
         Height: =92
         Size: =19
-        Text: ="No hay mensajes recientes"
+        Text: ="You don't have messages"
         Width: =445
         X: =97
-        Y: =548
+        Y: =721
         ZIndex: =25
 
     Icon3 As icon.More:

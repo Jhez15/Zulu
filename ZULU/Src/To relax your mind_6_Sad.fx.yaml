@@ -6,7 +6,7 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =277
         Width: =272
-        X: =430
+        X: =368
         Y: =133
         ZIndex: =3
 
@@ -15,7 +15,7 @@
         Image: ='22_1'
         ImagePosition: =ImagePosition.Fill
         Width: =294
-        X: =419
+        X: =346
         Y: =36
         ZIndex: =4
 
@@ -28,7 +28,7 @@
         Size: =36
         Text: ="Choose a emotion"
         Width: =560
-        X: =286
+        X: =80
         Y: =36
         ZIndex: =5
 
@@ -41,13 +41,13 @@
         Size: =36
         Text: ="Sad"
         Width: =560
-        X: =286
+        X: =80
         Y: =426
         ZIndex: =6
 
     Circle4_5 As circle:
         Fill: =RGBA(255, 255, 255, 1)
-        X: =975
+        X: =540
         Y: =500
         ZIndex: =10
 
@@ -70,7 +70,7 @@
         OnSelect: =Navigate('To relax your mind_6_Sad', Cover)
         PressedBorderColor: =ColorFade(Self.BorderColor,  100%)
         Width: =96
-        X: =977
+        X: =544
         Y: =496
         ZIndex: =16
 
@@ -79,7 +79,7 @@
         Image: ='26'
         OnSelect: =Navigate('To relax your mind_4_Happy', Cover)
         Width: =102
-        X: =619
+        X: =538
         Y: =443
         ZIndex: =17
 
@@ -97,7 +97,7 @@
         Image: ='Anie Adame (9)'
         OnSelect: =Navigate('To relax your mind_5_Insecure', Cover)
         Width: =181
-        X: =768
+        X: =459
         Y: =464
         ZIndex: =19
 
