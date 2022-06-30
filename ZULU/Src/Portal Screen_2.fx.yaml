@@ -41,7 +41,7 @@
         Text: ="Password"
         Width: =182
         X: =110
-        Y: =662
+        Y: =598
         ZIndex: =4
 
     TextInput5_10 As text:
@@ -170,7 +170,7 @@
         Size: =21
         Width: =418
         X: =110
-        Y: =705
+        Y: =607
         ZIndex: =17
 
     Icon1_55 As icon.HorizontalLine:
@@ -180,7 +180,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =110
-        Y: =738
+        Y: =630
         ZIndex: =18
 
     Icon1_56 As icon.HorizontalLine:
@@ -191,7 +191,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =150
-        Y: =738
+        Y: =630
         ZIndex: =19
 
     Icon1_57 As icon.HorizontalLine:
@@ -200,7 +200,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =219
-        Y: =738
+        Y: =630
         ZIndex: =20
 
     Icon1_58 As icon.HorizontalLine:
@@ -209,7 +209,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =190
-        Y: =738
+        Y: =630
         ZIndex: =21
 
     Icon1_59 As icon.HorizontalLine:
@@ -218,7 +218,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =262
-        Y: =738
+        Y: =630
         ZIndex: =22
 
     Icon1_60 As icon.HorizontalLine:
@@ -227,7 +227,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =292
-        Y: =738
+        Y: =630
         ZIndex: =23
 
     Icon1_61 As icon.HorizontalLine:
@@ -236,7 +236,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =333
-        Y: =738
+        Y: =630
         ZIndex: =24
 
     Icon1_62 As icon.HorizontalLine:
@@ -245,7 +245,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =380
-        Y: =738
+        Y: =630
         ZIndex: =25
 
     Icon1_63 As icon.HorizontalLine:
@@ -254,7 +254,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =405
-        Y: =738
+        Y: =630
         ZIndex: =26
 
     Icon1_64 As icon.HorizontalLine:
@@ -263,7 +263,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =437
-        Y: =738
+        Y: =630
         ZIndex: =27
 
     Icon1_65 As icon.HorizontalLine:
@@ -272,7 +272,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =476
-        Y: =738
+        Y: =630
         ZIndex: =28
 
     Label5_11 As label:
@@ -282,7 +282,7 @@
         Text: ="Don't have an account yet?"
         Width: =377
         X: =133
-        Y: =923
+        Y: =611
         ZIndex: =29
 
     Button6 As button:
@@ -301,7 +301,7 @@
         Text: ="Create an account"
         Width: =154
         X: =353
-        Y: =927
+        Y: =620
         ZIndex: =30
 
     Button6_10 As button:
@@ -320,6 +320,6 @@
         Text: ="Go to profile"
         Width: =342
         X: =148
-        Y: =801
+        Y: =582
         ZIndex: =31
 

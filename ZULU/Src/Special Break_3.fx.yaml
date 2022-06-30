@@ -1,123 +1,6 @@
 "'Special Break_3' As screen":
     BackgroundImage: ='Anie Adame (14)_1'
-
-    Label8_19 As label:
-        Align: =Align.Center
-        Color: =RGBA(255, 255, 255, 1)
-        Font: =Font.Lato
-        Height: =94
-        Size: =32
-        Text: ="Good evening"
-        Width: =320
-        X: =3
-        Y: =60
-        ZIndex: =1
-
-    Image24_1 As image:
-        Height: =603
-        Image: ='Diseño sin título (5)'
-        Width: =636
-        Y: =25
-        ZIndex: =2
-
-    Label8_20 As label:
-        Align: =Align.Center
-        Color: =RGBA(255, 255, 255, 1)
-        Font: =Font.Lato
-        Height: =94
-        Size: =37
-        Text: ="Jump back in"
-        Width: =320
-        X: =21
-        Y: =519
-        ZIndex: =3
-
-    Image25_1 As image:
-        Height: =170
-        Image: ='4_2'
-        OnSelect: =Navigate('Background Music', Fade);
-        Width: =161
-        X: =36
-        Y: =660
-        ZIndex: =4
-
-    Image26_1 As image:
-        Height: =161
-        Image: ='5_1'
-        Width: =161
-        X: =236
-        Y: =669
-        ZIndex: =5
-
-    Image27_1 As image:
-        Height: =161
-        Image: ='6_2'
-        Width: =157
-        X: =437
-        Y: =669
-        ZIndex: =6
-
-    Label8_21 As label:
-        Color: =RGBA(255, 255, 255, 1)
-        Font: =Font.Lato
-        Height: =117
-        Size: =14
-        Text: |-
-            ="Meditate
-            Album-Headspace"
-        Width: =386
-        X: =36
-        Y: =849
-        ZIndex: =7
-
-    Label8_22 As label:
-        Color: =RGBA(255, 255, 255, 1)
-        Font: =Font.Lato
-        Height: =117
-        Size: =14
-        Text: |-
-            ="Relax
-            Album-Headspace"
-        Width: =386
-        X: =240
-        Y: =849
-        ZIndex: =8
-
-    Label8_23 As label:
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledColor: =RGBA(255, 255, 255, 1)
-        Font: =Font.Lato
-        Height: =117
-        Size: =14
-        Text: |-
-            ="Sleep
-            Album-Headspace"
-        Width: =183
-        X: =437
-        Y: =849
-        ZIndex: =9
-
-    Label8_26 As label:
-        Align: =Align.Center
-        Color: =RGBA(255, 255, 255, 1)
-        Font: =Font.Lato
-        Height: =75
-        Size: =24
-        Text: ="Light"
-        Width: =183
-        X: =397
-        Y: =29
-        ZIndex: =11
-
-    Toggle2_2 As toggleSwitch:
-        Height: =32
-        OnCheck: =Navigate('Special Break_2')
-        ShowLabel: =false
-        Size: =21
-        Width: =98
-        X: =541
-        Y: =51
-        ZIndex: =12
+    ImagePosition: =ImagePosition.Fill
 
     Icon5_10 As icon.ArrowLeft:
         Color: =RGBA(255, 255, 255, 1)
@@ -128,4 +11,121 @@
         X: =36
         Y: =29
         ZIndex: =13
+
+    Label8_19 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =94
+        Size: =32
+        Text: ="Good evening"
+        Width: =320
+        X: =422
+        Y: =28
+        ZIndex: =14
+
+    Image24_1 As image:
+        Height: =591
+        Image: ='Diseño sin título (5)'
+        Width: =623
+        X: =21
+        Y: =49
+        ZIndex: =15
+
+    Label8_20 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =94
+        Size: =37
+        Text: ="Jump back in"
+        Width: =320
+        X: =661
+        Y: =122
+        ZIndex: =16
+
+    Image25_1 As image:
+        Height: =170
+        Image: ='4_2'
+        OnSelect: =Navigate('Background Music', Fade)
+        Width: =161
+        X: =683
+        Y: =216
+        ZIndex: =17
+
+    Image26_1 As image:
+        Height: =161
+        Image: ='5_1'
+        Width: =161
+        X: =890
+        Y: =219
+        ZIndex: =18
+
+    Image27_1 As image:
+        Height: =161
+        Image: ='6_2'
+        Width: =157
+        X: =683
+        Y: =462
+        ZIndex: =19
+
+    Label8_21 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =117
+        Size: =14
+        Text: |-
+            ="Meditate
+            Album-Headspace"
+        Width: =386
+        X: =683
+        Y: =362
+        ZIndex: =20
+
+    Label8_22 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =117
+        Size: =14
+        Text: |-
+            ="Sleep
+            Album-Headspace"
+        Width: =183
+        X: =853
+        Y: =523
+        ZIndex: =21
+
+    Label8_26 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Size: =24
+        Text: ="Dark"
+        Width: =118
+        X: =933
+        Y: =34
+        ZIndex: =22
+
+    Toggle2_2 As toggleSwitch:
+        Height: =29
+        OnSelect: =Navigate('Special Break_3')
+        Size: =21
+        Width: =55
+        X: =1049
+        Y: =42
+        ZIndex: =23
+
+    Label8_23 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Font: =Font.Lato
+        Height: =117
+        Size: =14
+        Text: |-
+            ="Relax
+            Album-Headspace"
+        Width: =183
+        X: =890
+        Y: =362
+        ZIndex: =24
 

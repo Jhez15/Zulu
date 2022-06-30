@@ -71,7 +71,7 @@ Schedule_4 As screen:
         Text: ="Hours"
         Width: =87
         X: =57
-        Y: =642
+        Y: =583
         ZIndex: =6
 
     Label7_15 As label:
@@ -83,7 +83,7 @@ Schedule_4 As screen:
         Text: ="Day"
         Width: =87
         X: =299
-        Y: =642
+        Y: =583
         ZIndex: =7
 
     Label7_16 As label:
@@ -96,7 +96,7 @@ Schedule_4 As screen:
             ="Pending messages:"
         Width: =470
         X: =40
-        Y: =789
+        Y: =574
         ZIndex: =8
 
     Label7_17 As label:
@@ -108,7 +108,7 @@ Schedule_4 As screen:
         Text: ="Hours"
         Width: =87
         X: =57
-        Y: =875
+        Y: =583
         ZIndex: =9
 
     Label7_18 As label:
@@ -120,7 +120,7 @@ Schedule_4 As screen:
         Text: ="Day"
         Width: =87
         X: =299
-        Y: =875
+        Y: =583
         ZIndex: =10
 
     Toggle1 As toggleSwitch:
@@ -144,7 +144,7 @@ Schedule_4 As screen:
         Size: =21
         Width: =100
         X: =500
-        Y: =806
+        Y: =608
         ZIndex: =16
 
     Icon5_14 As icon.ArrowLeft:

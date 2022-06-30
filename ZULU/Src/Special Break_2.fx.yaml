@@ -1,5 +1,6 @@
 "'Special Break_2' As screen":
     BackgroundImage: ='Anie Adame (12)_1'
+    ImagePosition: =ImagePosition.Fill
     OnVisible: =false
 
     Label8_14 As label:
@@ -10,16 +11,16 @@
         Size: =32
         Text: ="Good evening"
         Width: =320
-        X: =3
-        Y: =60
+        X: =422
+        Y: =28
         ZIndex: =1
 
     Image24 As image:
         Height: =591
         Image: ='Diseño sin título (5)'
         Width: =623
-        X: =3
-        Y: =51
+        X: =21
+        Y: =49
         ZIndex: =2
 
     Label8_15 As label:
@@ -30,8 +31,8 @@
         Size: =37
         Text: ="Jump back in"
         Width: =320
-        X: =21
-        Y: =519
+        X: =661
+        Y: =122
         ZIndex: =3
 
     Image25 As image:
@@ -39,24 +40,24 @@
         Image: ='4_2'
         OnSelect: =Navigate('Background Music', Fade)
         Width: =161
-        X: =36
-        Y: =660
+        X: =683
+        Y: =216
         ZIndex: =4
 
     Image26 As image:
         Height: =161
         Image: ='5_1'
         Width: =161
-        X: =236
-        Y: =669
+        X: =890
+        Y: =219
         ZIndex: =5
 
     Image27 As image:
         Height: =161
         Image: ='6_2'
         Width: =157
-        X: =437
-        Y: =669
+        X: =683
+        Y: =462
         ZIndex: =6
 
     Label8_16 As label:
@@ -68,8 +69,8 @@
             ="Meditate
             Album-Headspace"
         Width: =386
-        X: =36
-        Y: =849
+        X: =683
+        Y: =362
         ZIndex: =7
 
     Label8_17 As label:
@@ -80,9 +81,9 @@
         Text: |-
             ="Relax
             Album-Headspace"
-        Width: =386
-        X: =240
-        Y: =849
+        Width: =183
+        X: =890
+        Y: =362
         ZIndex: =8
 
     Label8_18 As label:
@@ -94,8 +95,8 @@
             ="Sleep
             Album-Headspace"
         Width: =183
-        X: =437
-        Y: =849
+        X: =853
+        Y: =523
         ZIndex: =9
 
     Label8_25 As label:
@@ -105,8 +106,8 @@
         Size: =24
         Text: ="Dark"
         Width: =118
-        X: =423
-        Y: =43
+        X: =933
+        Y: =34
         ZIndex: =11
 
     Icon5_9 As icon.ArrowLeft:
@@ -124,7 +125,7 @@
         OnSelect: =Navigate('Special Break_3')
         Size: =21
         Width: =55
-        X: =539
-        Y: =51
+        X: =1049
+        Y: =42
         ZIndex: =14
 

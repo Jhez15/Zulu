@@ -630,7 +630,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon5_12",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -807,7 +807,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image21",
-      "ParentIndex": 2,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1061,7 +1061,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label7_4",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

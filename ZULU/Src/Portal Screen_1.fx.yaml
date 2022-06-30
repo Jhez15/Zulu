@@ -45,7 +45,7 @@
         Text: ="Email"
         Width: =107
         X: =89
-        Y: =702
+        Y: =583
         ZIndex: =6
 
     Label5_5 As label:
@@ -56,7 +56,7 @@
         Text: ="Password"
         Width: =182
         X: =89
-        Y: =843
+        Y: =598
         ZIndex: =7
 
     Label5_6 As label:
@@ -193,7 +193,7 @@
         Size: =21
         Width: =418
         X: =93
-        Y: =631
+        Y: =607
         ZIndex: =26
 
     Icon1_11 As icon.HorizontalLine:
@@ -203,7 +203,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =93
-        Y: =664
+        Y: =630
         ZIndex: =27
 
     Icon1_12 As icon.HorizontalLine:
@@ -214,7 +214,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =133
-        Y: =664
+        Y: =630
         ZIndex: =28
 
     Icon1_13 As icon.HorizontalLine:
@@ -223,7 +223,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =202
-        Y: =664
+        Y: =630
         ZIndex: =29
 
     Icon1_14 As icon.HorizontalLine:
@@ -232,7 +232,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =173
-        Y: =664
+        Y: =630
         ZIndex: =30
 
     Icon1_15 As icon.HorizontalLine:
@@ -241,7 +241,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =245
-        Y: =664
+        Y: =630
         ZIndex: =31
 
     Icon1_16 As icon.HorizontalLine:
@@ -250,7 +250,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =275
-        Y: =664
+        Y: =630
         ZIndex: =32
 
     Icon1_17 As icon.HorizontalLine:
@@ -259,7 +259,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =316
-        Y: =664
+        Y: =630
         ZIndex: =33
 
     Icon1_18 As icon.HorizontalLine:
@@ -268,7 +268,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =363
-        Y: =664
+        Y: =630
         ZIndex: =34
 
     Icon1_19 As icon.HorizontalLine:
@@ -277,7 +277,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =388
-        Y: =664
+        Y: =630
         ZIndex: =35
 
     Icon1_20 As icon.HorizontalLine:
@@ -286,7 +286,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =420
-        Y: =664
+        Y: =630
         ZIndex: =36
 
     Icon1_21 As icon.HorizontalLine:
@@ -295,7 +295,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =459
-        Y: =664
+        Y: =630
         ZIndex: =37
 
     TextInput5_8 As text:
@@ -308,7 +308,7 @@
         Size: =21
         Width: =418
         X: =93
-        Y: =754
+        Y: =607
         ZIndex: =38
 
     Icon1_22 As icon.HorizontalLine:
@@ -318,7 +318,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =93
-        Y: =787
+        Y: =630
         ZIndex: =39
 
     Icon1_23 As icon.HorizontalLine:
@@ -329,7 +329,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =133
-        Y: =787
+        Y: =630
         ZIndex: =40
 
     Icon1_24 As icon.HorizontalLine:
@@ -338,7 +338,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =202
-        Y: =787
+        Y: =630
         ZIndex: =41
 
     Icon1_25 As icon.HorizontalLine:
@@ -347,7 +347,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =173
-        Y: =787
+        Y: =630
         ZIndex: =42
 
     Icon1_26 As icon.HorizontalLine:
@@ -356,7 +356,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =245
-        Y: =787
+        Y: =630
         ZIndex: =43
 
     Icon1_27 As icon.HorizontalLine:
@@ -365,7 +365,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =275
-        Y: =787
+        Y: =630
         ZIndex: =44
 
     Icon1_28 As icon.HorizontalLine:
@@ -374,7 +374,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =316
-        Y: =787
+        Y: =630
         ZIndex: =45
 
     Icon1_29 As icon.HorizontalLine:
@@ -383,7 +383,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =363
-        Y: =787
+        Y: =630
         ZIndex: =46
 
     Icon1_30 As icon.HorizontalLine:
@@ -392,7 +392,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =388
-        Y: =787
+        Y: =630
         ZIndex: =47
 
     Icon1_31 As icon.HorizontalLine:
@@ -401,7 +401,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =420
-        Y: =787
+        Y: =630
         ZIndex: =48
 
     Icon1_32 As icon.HorizontalLine:
@@ -410,7 +410,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =459
-        Y: =787
+        Y: =630
         ZIndex: =49
 
     TextInput5_9 As text:
@@ -423,7 +423,7 @@
         Size: =21
         Width: =418
         X: =89
-        Y: =886
+        Y: =607
         ZIndex: =50
 
     Icon1_33 As icon.HorizontalLine:
@@ -433,7 +433,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =89
-        Y: =919
+        Y: =630
         ZIndex: =51
 
     Icon1_34 As icon.HorizontalLine:
@@ -444,7 +444,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =129
-        Y: =919
+        Y: =630
         ZIndex: =52
 
     Icon1_35 As icon.HorizontalLine:
@@ -453,7 +453,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =198
-        Y: =919
+        Y: =630
         ZIndex: =53
 
     Icon1_36 As icon.HorizontalLine:
@@ -462,7 +462,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =169
-        Y: =919
+        Y: =630
         ZIndex: =54
 
     Icon1_37 As icon.HorizontalLine:
@@ -471,7 +471,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =241
-        Y: =919
+        Y: =630
         ZIndex: =55
 
     Icon1_38 As icon.HorizontalLine:
@@ -480,7 +480,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =271
-        Y: =919
+        Y: =630
         ZIndex: =56
 
     Icon1_39 As icon.HorizontalLine:
@@ -489,7 +489,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =312
-        Y: =919
+        Y: =630
         ZIndex: =57
 
     Icon1_40 As icon.HorizontalLine:
@@ -498,7 +498,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =359
-        Y: =919
+        Y: =630
         ZIndex: =58
 
     Icon1_41 As icon.HorizontalLine:
@@ -507,7 +507,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =384
-        Y: =919
+        Y: =630
         ZIndex: =59
 
     Icon1_42 As icon.HorizontalLine:
@@ -516,7 +516,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =416
-        Y: =919
+        Y: =630
         ZIndex: =60
 
     Icon1_43 As icon.HorizontalLine:
@@ -525,7 +525,7 @@
         Icon: =Icon.HorizontalLine
         Width: =52
         X: =455
-        Y: =919
+        Y: =630
         ZIndex: =61
 
     Label5_8 As label:
@@ -536,7 +536,7 @@
         Text: ="Already have an account? "
         Width: =377
         X: =95
-        Y: =1030
+        Y: =611
         ZIndex: =62
 
     Button6_1 As button:
@@ -555,7 +555,7 @@
         Text: ="login"
         Width: =50
         X: =390
-        Y: =1030
+        Y: =611
         ZIndex: =63
 
     Button6_9 As button:

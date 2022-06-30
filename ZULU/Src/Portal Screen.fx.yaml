@@ -3,12 +3,6 @@
     Fill: =RGBA(255, 255, 255, 1)
     ImagePosition: =ImagePosition.Stretch
 
-    Image10 As image:
-        Height: =1136
-        Image: ='1'
-        Width: =640
-        ZIndex: =1
-
     Button2 As button:
         DisabledBorderColor: =RGBA(0, 18, 107, 1)
         Fill: =RGBA(9, 33, 98, 1)
@@ -19,41 +13,41 @@
         Size: =16
         Text: ="Do you already have an account?"
         Width: =324
-        X: =152
-        Y: =902
-        ZIndex: =2
+        X: =167
+        Y: =429
+        ZIndex: =1
 
     Circle1 As circle:
         Fill: =RGBA(9, 33, 98, 1)
         Height: =61
         Width: =55
-        X: =391
-        Y: =791
+        X: =898
+        Y: =441
+        ZIndex: =2
+
+    Circle1_2 As circle:
+        Fill: =RGBA(9, 33, 98, 1)
+        Height: =88
+        Width: =74
+        X: =461
+        Y: =428
         ZIndex: =3
 
     Circle1_1 As circle:
         Fill: =RGBA(9, 33, 98, 1)
         Height: =61
         Width: =55
-        X: =184
-        Y: =791
+        X: =664
+        Y: =442
         ZIndex: =4
-
-    Circle1_2 As circle:
-        Fill: =RGBA(9, 33, 98, 1)
-        Height: =88
-        Width: =74
-        X: =435
-        Y: =902
-        ZIndex: =5
 
     Circle1_3 As circle:
         Fill: =RGBA(9, 33, 98, 1)
         Height: =88
         Width: =78
         X: =118
-        Y: =902
-        ZIndex: =6
+        Y: =428
+        ZIndex: =5
 
     Button4 As button:
         AutoDisableOnSelect: =false
@@ -68,16 +62,16 @@
         Size: =18
         Text: ="Join up!"
         Width: =239
-        X: =196
-        Y: =791
-        ZIndex: =7
+        X: =696
+        Y: =442
+        ZIndex: =6
 
     Image1 As image:
-        Height: =710
+        Height: =362
         Image: ='Anie Adame'
         ImagePosition: =ImagePosition.Fill
-        Width: =544
-        X: =48
-        Y: =26
-        ZIndex: =8
+        Width: =279
+        X: =476
+        Y: =5
+        ZIndex: =7
 

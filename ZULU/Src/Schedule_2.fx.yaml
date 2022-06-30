@@ -13,11 +13,10 @@ Schedule_2 As screen:
         ZIndex: =2
 
     Image21 As image:
-        Height: =675
+        Height: =640
         Image: ='Diseño sin título (3)_1'
         Width: =560
         X: =40
-        Y: =170
         ZIndex: =3
 
     Circle1_6 As circle:
@@ -25,7 +24,7 @@ Schedule_2 As screen:
         Height: =42
         Width: =36
         X: =402
-        Y: =895
+        Y: =598
         ZIndex: =4
 
     Circle1_7 As circle:
@@ -33,7 +32,7 @@ Schedule_2 As screen:
         Height: =42
         Width: =34
         X: =205
-        Y: =895
+        Y: =598
         ZIndex: =5
 
     Button4_1 As button:
@@ -50,7 +49,7 @@ Schedule_2 As screen:
         Text: ="Continue"
         Width: =201
         X: =219
-        Y: =895
+        Y: =598
         ZIndex: =6
 
     Icon5_12 As icon.ArrowLeft:

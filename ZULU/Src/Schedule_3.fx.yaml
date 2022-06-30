@@ -50,7 +50,7 @@ Schedule_3 As screen:
         Size: =18
         Width: =498
         X: =53
-        Y: =373
+        Y: =331
         ZIndex: =4
 
     Label7_8 As label:
@@ -62,7 +62,7 @@ Schedule_3 As screen:
         Text: ="Confirm time & date"
         Width: =276
         X: =53
-        Y: =737
+        Y: =578
         ZIndex: =5
 
     Button6_11 As button:
@@ -82,7 +82,7 @@ Schedule_3 As screen:
             4:10- 5:00 PM"
         Width: =346
         X: =53
-        Y: =815
+        Y: =471
         ZIndex: =6
 
     Icon8 As icon.Settings:
@@ -90,7 +90,7 @@ Schedule_3 As screen:
         Icon: =Icon.Settings
         OnSelect: =Navigate(Schedule_4, Fade)
         X: =487
-        Y: =867
+        Y: =576
         ZIndex: =7
 
     Icon5_13 As icon.ArrowLeft:

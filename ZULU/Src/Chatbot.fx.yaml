@@ -42,7 +42,7 @@ Chatbot As screen:
         Image: ='Diseño sin título (8)'
         Width: =576
         X: =32
-        Y: =992
+        Y: =508
         ZIndex: =10
 
     Image29 As image:
@@ -58,7 +58,7 @@ Chatbot As screen:
         Image: ='Zulu (8)'
         Width: =240
         X: =313
-        Y: =399
+        Y: =364
         ZIndex: =15
 
     Image29_1 As image:
@@ -66,7 +66,7 @@ Chatbot As screen:
         Image: ='Zulu (7)_1'
         Width: =240
         X: =76
-        Y: =481
+        Y: =339
         ZIndex: =16
 
     Image19_2 As image:
@@ -74,7 +74,7 @@ Chatbot As screen:
         Image: ='Zulu (8)'
         Width: =240
         X: =324
-        Y: =562
+        Y: =364
         ZIndex: =17
 
     Image29_2 As image:
@@ -106,7 +106,7 @@ Chatbot As screen:
         Image: ='Zulu (4)'
         Width: =58
         X: =7
-        Y: =629
+        Y: =576
         ZIndex: =21
 
     Image3_5 As image:
@@ -122,7 +122,7 @@ Chatbot As screen:
         Image: ='Anie Adame (5)'
         Width: =74
         X: =564
-        Y: =501
+        Y: =489
         ZIndex: =23
 
     Image3_7 As image:
@@ -130,7 +130,7 @@ Chatbot As screen:
         Image: ='Anie Adame (5)'
         Width: =74
         X: =566
-        Y: =652
+        Y: =489
         ZIndex: =24
 
     Image19_3 As image:
@@ -138,7 +138,7 @@ Chatbot As screen:
         Image: ='Zulu (8)'
         Width: =240
         X: =324
-        Y: =730
+        Y: =364
         ZIndex: =25
 
     Image17_4 As image:
@@ -146,7 +146,7 @@ Chatbot As screen:
         Image: ='Zulu (4)'
         Width: =58
         X: =7
-        Y: =797
+        Y: =576
         ZIndex: =26
 
     Image3_8 As image:
@@ -154,7 +154,7 @@ Chatbot As screen:
         Image: ='Anie Adame (5)'
         Width: =74
         X: =566
-        Y: =820
+        Y: =489
         ZIndex: =27
 
     Image29_3 As image:
@@ -162,7 +162,7 @@ Chatbot As screen:
         Image: ='Zulu (7)_1'
         Width: =240
         X: =76
-        Y: =668
+        Y: =344
         ZIndex: =28
 
     TextInput5_5 As text:
@@ -178,7 +178,7 @@ Chatbot As screen:
         Size: =21
         Width: =418
         X: =76
-        Y: =1041
+        Y: =607
         ZIndex: =29
 
     Button6_12 As button:
@@ -291,7 +291,7 @@ Chatbot As screen:
         Text: ="You would to talk with a person about this?"
         Width: =207
         X: =98
-        Y: =588
+        Y: =554
         ZIndex: =35
 
     Button6_18 As button:
@@ -311,7 +311,7 @@ Chatbot As screen:
         Text: ="Yes, I would like."
         Width: =207
         X: =332
-        Y: =657
+        Y: =554
         ZIndex: =36
 
     Button6_19 As button:
@@ -330,7 +330,7 @@ Chatbot As screen:
         Text: ="Welp, Anie you're capable, I know that you can do it!"
         Width: =207
         X: =91
-        Y: =775
+        Y: =554
         ZIndex: =37
 
     Button6_20 As button:
@@ -349,7 +349,7 @@ Chatbot As screen:
         Text: =""
         Width: =207
         X: =329
-        Y: =825
+        Y: =554
         ZIndex: =38
 
     Button6_21 As button:
@@ -369,6 +369,6 @@ Chatbot As screen:
         Text: ="Yes, I can."
         Width: =207
         X: =331
-        Y: =824
+        Y: =554
         ZIndex: =39
 

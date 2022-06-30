@@ -1,13 +1,13 @@
 "'Background Music' As screen":
     BackgroundImage: ='Anie Adame (15)_1'
+    ImagePosition: =ImagePosition.Fill
 
     Image5 As image:
-        Height: =529
+        Height: =435
         Image: ='Diseño sin título (6)'
         ImagePosition: =ImagePosition.Fill
-        Width: =525
-        X: =57
-        Y: =132
+        Width: =393
+        X: =365
         ZIndex: =1
 
     Label8_27 As label:
@@ -17,8 +17,8 @@
         Size: =24
         Text: ="Dark"
         Width: =118
-        X: =423
-        Y: =43
+        X: =950
+        Y: =20
         ZIndex: =2
 
     Toggle2_1 As toggleSwitch:
@@ -26,30 +26,30 @@
         OnSelect: =Navigate('Special Break_3')
         Size: =21
         Width: =55
-        X: =539
-        Y: =51
+        X: =1066
+        Y: =28
         ZIndex: =3
 
     Image7 As image:
-        Height: =544
+        Height: =333
         Image: ='Diseño sin título (7)'
-        Width: =584
-        X: =27
-        Y: =591
+        Width: =424
+        X: =349
+        Y: =307
         ZIndex: =4
 
     Label8_24 As label:
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         FontWeight: =FontWeight.Lighter
-        Height: =117
-        Size: =26
+        Height: =55
+        Size: =14
         Text: |-
             ="Meditate 
             Headspace"
-        Width: =386
-        X: =57
-        Y: =661
+        Width: =267
+        X: =365
+        Y: =372
         ZIndex: =5
 
     Icon5_11 As icon.ArrowLeft:
