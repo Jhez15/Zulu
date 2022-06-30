@@ -1,9 +1,9 @@
 "'Special Break_1' As screen":
-    BackgroundImage: ='Anie Adame (11)'
-    ImagePosition: =ImagePosition.Fill
+    BackgroundImage: ='Parte de resentación '
 
     Label8_12 As label:
         Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Georgia
         FontWeight: =FontWeight.Semibold
         Height: =129
@@ -24,9 +24,10 @@
 
     Button4_2 As button:
         AutoDisableOnSelect: =false
+        Color: =RGBA(56, 96, 178, 1)
         DisabledBorderColor: =RGBA(0, 18, 107, 1)
         DisabledFill: =RGBA(0, 18, 107, 1)
-        Fill: =RGBA(9, 33, 98, 1)
+        Fill: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         FontWeight: =FontWeight.Bold
         Height: =99

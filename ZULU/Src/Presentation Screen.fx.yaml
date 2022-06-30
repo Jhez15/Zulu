@@ -27,3 +27,20 @@
         Y: =298
         ZIndex: =11
 
+    Button4_3 As button:
+        AutoDisableOnSelect: =false
+        DisabledBorderColor: =RGBA(0, 18, 107, 1)
+        DisabledFill: =RGBA(0, 18, 107, 1)
+        Fill: =RGBA(9, 33, 98, 1)
+        Height: =61
+        HoverBorderColor: =RGBA(0, 18, 107, 1)
+        HoverFill: =ColorFade(RGBA( 0, 18, 107, 1 ), -20%)
+        OnSelect: =Navigate('Profile Screen_2', Fade)
+        PressedBorderColor: =RGBA(0, 18, 107, 1)
+        Size: =18
+        Text: ="Start"
+        Width: =239
+        X: =446
+        Y: =522
+        ZIndex: =12
+

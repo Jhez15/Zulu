@@ -1,10 +1,19 @@
 "'Profile Screen_2' As screen":
+    Fill: =RGBA(255, 255, 255, 1)
+
+    Rectangle1 As rectangle:
+        Fill: =RGBA(0, 18, 107, 1)
+        Height: =640
+        Width: =450
+        ZIndex: =1
 
     Rectangle4_1 As rectangle:
-        Fill: =RGBA(241, 244, 249, 1)
-        Height: =188
-        Width: =640
-        ZIndex: =1
+        BorderColor: =RGBA(253, 222, 207, 1)
+        Fill: =RGBA(237, 237, 237, 1)
+        Height: =154
+        Width: =686
+        X: =450
+        ZIndex: =2
 
     Label8_6 As label:
         Align: =Align.Center
@@ -13,44 +22,20 @@
         Size: =28
         Text: ="Anie Adames"
         Width: =560
-        X: =39
-        Y: =340
-        ZIndex: =2
-
-    Circle2_1 As circle:
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =92
-        Width: =90
-        Y: =548
+        X: =511
+        Y: =231
         ZIndex: =3
-
-    Circle1_5 As circle:
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =208
-        Width: =219
-        X: =210
-        Y: =88
-        ZIndex: =4
-
-    Image3_4 As image:
-        Height: =367
-        Image: ='Anie Adame (5)'
-        OnSelect: =Navigate('Presentation Screen', Fade)
-        Width: =370
-        X: =134
-        Y: =57
-        ZIndex: =5
 
     Label8_7 As label:
         Align: =Align.Center
         Font: =Font.Lato
-        Height: =24
-        Size: =15
+        Height: =77
+        Size: =20
         Text: ="anie.adames2023@mottach.superate.org.pa"
-        Width: =419
-        X: =109
-        Y: =445
-        ZIndex: =6
+        Width: =534
+        X: =527
+        Y: =317
+        ZIndex: =7
 
     Label8_8 As label:
         Align: =Align.Center
@@ -60,9 +45,9 @@
         Text: |-
             ="Turn: P.M."
         Width: =131
-        X: =72
-        Y: =519
-        ZIndex: =7
+        X: =886
+        Y: =415
+        ZIndex: =8
 
     Label8_9 As label:
         Align: =Align.Center
@@ -72,25 +57,18 @@
         Text: |-
             ="Level: Junior"
         Width: =143
-        X: =429
-        Y: =515
-        ZIndex: =8
-
-    Rectangle1_5 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(166, 166, 166, 1)
-        Height: =0
-        Width: =640
-        Y: =540
+        X: =542
+        Y: =411
         ZIndex: =9
 
     Rectangle1_6 As rectangle:
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(116, 116, 116, 1)
         Height: =3
-        Width: =640
-        Y: =637
-        ZIndex: =10
+        Width: =683
+        X: =453
+        Y: =456
+        ZIndex: =11
 
     Label8_10 As label:
         Align: =Align.Center
@@ -98,47 +76,40 @@
         Font: =Font.'Lato Black'
         Height: =36
         Size: =19
-        Text: ="Mensajes recientes"
+        Text: ="Recent Messages"
         Width: =233
-        X: =203
-        Y: =604
-        ZIndex: =11
+        X: =685
+        Y: =474
+        ZIndex: =12
 
     Label8_11 As label:
         Align: =Align.Center
-        Color: =RGBA(230, 230, 230, 1)
+        Color: =RGBA(202, 202, 202, 1)
         Font: =Font.'Lato Black'
         Height: =92
         Size: =19
-        Text: ="No hay mensajes recientes"
+        Text: ="You don't have messages"
         Width: =445
-        X: =97
+        X: =572
         Y: =548
-        ZIndex: =12
-
-    Image4 As image:
-        Height: =640
-        Image: ='Anie Adame (6)'
-        Width: =640
-        ZIndex: =15
+        ZIndex: =13
 
     Image6 As image:
-        Height: =162
+        Height: =140
         Image: ='Diseño sin título (1)'
         OnSelect: =Navigate('Profile Screen_1')
-        Width: =167
-        X: =54
-        Y: =13
-        ZIndex: =16
+        Width: =202
+        X: =92
+        ZIndex: =14
 
     Rectangle1_7 As rectangle:
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =3
         Width: =226
-        X: =26
-        Y: =262
-        ZIndex: =18
+        X: =94
+        Y: =345
+        ZIndex: =15
 
     Button6_2 As button:
         BorderStyle: =BorderStyle.None
@@ -155,9 +126,9 @@
         Size: =20
         Text: ="Profile"
         Width: =172
-        X: =49
-        Y: =296
-        ZIndex: =19
+        X: =114
+        Y: =201
+        ZIndex: =16
 
     Button6_3 As button:
         BorderStyle: =BorderStyle.None
@@ -174,9 +145,9 @@
         Size: =20
         Text: ="Schedule"
         Width: =172
-        X: =51
-        Y: =412
-        ZIndex: =22
+        X: =120
+        Y: =289
+        ZIndex: =17
 
     Button6_4 As button:
         BorderStyle: =BorderStyle.None
@@ -193,9 +164,9 @@
         Size: =20
         Text: ="Chatbot"
         Width: =172
-        X: =49
-        Y: =536
-        ZIndex: =23
+        X: =114
+        Y: =358
+        ZIndex: =18
 
     Button6_5 As button:
         BorderStyle: =BorderStyle.None
@@ -212,9 +183,9 @@
         Size: =20
         Text: ="How do you feel?"
         Width: =196
-        X: =41
-        Y: =563
-        ZIndex: =24
+        X: =109
+        Y: =425
+        ZIndex: =19
 
     Button6_6 As button:
         BorderStyle: =BorderStyle.None
@@ -231,9 +202,62 @@
         Size: =20
         Text: ="Special Break"
         Width: =196
-        X: =41
-        Y: =563
+        X: =109
+        Y: =507
+        ZIndex: =20
+
+    Rectangle1_14 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =3
+        Width: =226
+        X: =92
+        Y: =422
+        ZIndex: =21
+
+    Rectangle1_15 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =3
+        Width: =226
+        X: =86
+        Y: =521
+        ZIndex: =22
+
+    Rectangle1_16 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =3
+        Width: =226
+        X: =92
+        Y: =268
+        ZIndex: =23
+
+    Rectangle1_17 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =3
+        Width: =226
+        X: =94
+        Y: =188
+        ZIndex: =24
+
+    Rectangle1_18 As rectangle:
+        BorderColor: =RGBA(3, 152, 158, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =3
+        Width: =226
+        X: =84
+        Y: =584
         ZIndex: =25
+
+    Image2 As image:
+        Height: =159
+        Image: ='Zulu (10)'
+        Width: =197
+        X: =98
+        Y: =72
+        ZIndex: =26
 
     Button6_7 As button:
         BorderStyle: =BorderStyle.None
@@ -250,60 +274,15 @@
         Size: =20
         Text: ="Sign off"
         Width: =196
-        X: =90
-        Y: =563
-        ZIndex: =26
+        X: =287
+        Y: =539
+        ZIndex: =27
 
-    Rectangle1_14 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =3
-        Width: =226
-        X: =26
-        Y: =370
-        ZIndex: =30
-
-    Rectangle1_15 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =3
-        Width: =226
-        X: =24
-        Y: =487
-        ZIndex: =31
-
-    Rectangle1_16 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =3
-        Width: =226
-        X: =24
-        Y: =614
-        ZIndex: =32
-
-    Rectangle1_17 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =3
-        Width: =226
-        X: =26
-        Y: =637
-        ZIndex: =33
-
-    Rectangle1_18 As rectangle:
-        BorderColor: =RGBA(3, 152, 158, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =3
-        Width: =226
-        X: =26
-        Y: =637
-        ZIndex: =34
-
-    Image2 As image:
-        Height: =185
-        Image: ='Zulu (10)'
-        Width: =242
-        X: =14
-        Y: =99
-        ZIndex: =35
+    Image8 As image:
+        Height: =248
+        Image: ='Anie Adame foto'
+        Width: =244
+        X: =669
+        Y: =15
+        ZIndex: =28
 

@@ -40,8 +40,8 @@
         Image: ='Anie Adame (5)'
         OnSelect: =Navigate('Presentation Screen', Fade)
         Width: =370
-        X: =134
-        Y: =57
+        X: =429
+        Y: =49
         ZIndex: =18
 
     Label8_1 As label:
