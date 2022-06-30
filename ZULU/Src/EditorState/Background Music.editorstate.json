@@ -147,7 +147,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon5_11",
-      "ParentIndex": 3,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1085,7 +1085,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label8_27",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1339,7 +1339,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Toggle2_1",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

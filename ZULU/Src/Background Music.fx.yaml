@@ -7,7 +7,7 @@
         Image: ='Diseño sin título (6)'
         ImagePosition: =ImagePosition.Fill
         Width: =393
-        X: =247
+        X: =415
         ZIndex: =1
 
     Label8_27 As label:
@@ -15,10 +15,10 @@
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Size: =24
-        Text: ="Dark"
+        Text: ="Light"
         Width: =118
-        X: =522
-        Y: =20
+        X: =953
+        Y: =31
         ZIndex: =2
 
     Toggle2_1 As toggleSwitch:
@@ -26,15 +26,15 @@
         OnSelect: =Navigate('Special Break_3')
         Size: =21
         Width: =55
-        X: =585
-        Y: =28
+        X: =1056
+        Y: =37
         ZIndex: =3
 
     Image7 As image:
         Height: =333
         Image: ='Diseño sin título (7)'
         Width: =424
-        X: =216
+        X: =384
         Y: =307
         ZIndex: =4
 
@@ -48,8 +48,8 @@
             ="Meditate 
             Headspace"
         Width: =267
-        X: =365
-        Y: =372
+        X: =429
+        Y: =380
         ZIndex: =5
 
     Icon5_11 As icon.ArrowLeft:

@@ -49,12 +49,12 @@
         Text: ="You don't have messages"
         Width: =445
         X: =137
-        Y: =630
+        Y: =548
         ZIndex: =5
 
     Rectangle1_1 As rectangle:
         Fill: =RGBA(0, 18, 107, 0.83)
-        Height: =1136
+        Height: =640
         Width: =286
         ZIndex: =6
 
@@ -210,7 +210,7 @@
         Text: ="Special Break"
         Width: =196
         X: =39
-        Y: =627
+        Y: =563
         ZIndex: =17
 
     Rectangle1_21 As rectangle:
@@ -255,7 +255,7 @@
         Height: =3
         Width: =226
         X: =24
-        Y: =714
+        Y: =637
         ZIndex: =22
 
     Image2_1 As image:
@@ -301,6 +301,6 @@
         Text: ="Sign off"
         Width: =196
         X: =126
-        Y: =1059
+        Y: =563
         ZIndex: =25
 

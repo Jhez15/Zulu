@@ -11,7 +11,8 @@
         BorderColor: =RGBA(253, 222, 207, 1)
         Fill: =RGBA(237, 237, 237, 1)
         Height: =154
-        Width: =640
+        Width: =686
+        X: =450
         ZIndex: =2
 
     Label8_6 As label:
@@ -21,8 +22,8 @@
         Size: =28
         Text: ="Anie Adames"
         Width: =560
-        X: =80
-        Y: =231
+        X: =490
+        Y: =249
         ZIndex: =3
 
     Label8_7 As label:
@@ -32,8 +33,8 @@
         Size: =20
         Text: ="anie.adames2023@mottach.superate.org.pa"
         Width: =534
-        X: =106
-        Y: =317
+        X: =503
+        Y: =326
         ZIndex: =7
 
     Label8_8 As label:
@@ -44,8 +45,8 @@
         Text: |-
             ="Turn: P.M."
         Width: =131
-        X: =509
-        Y: =415
+        X: =906
+        Y: =413
         ZIndex: =8
 
     Label8_9 As label:
@@ -56,16 +57,17 @@
         Text: |-
             ="Level: Junior"
         Width: =143
-        X: =497
-        Y: =411
+        X: =524
+        Y: =413
         ZIndex: =9
 
     Rectangle1_6 As rectangle:
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(116, 116, 116, 1)
-        Height: =3
-        Width: =640
-        Y: =456
+        Height: =5
+        Width: =686
+        X: =449
+        Y: =516
         ZIndex: =11
 
     Label8_10 As label:
@@ -76,8 +78,8 @@
         Size: =19
         Text: ="Recent Messages"
         Width: =233
-        X: =407
-        Y: =474
+        X: =675
+        Y: =480
         ZIndex: =12
 
     Label8_11 As label:
@@ -88,7 +90,7 @@
         Size: =19
         Text: ="You don't have messages"
         Width: =445
-        X: =195
+        X: =547
         Y: =548
         ZIndex: =13
 
@@ -280,7 +282,7 @@
         Height: =248
         Image: ='Anie Adame foto'
         Width: =244
-        X: =396
-        Y: =15
+        X: =648
+        Y: =41
         ZIndex: =28
 

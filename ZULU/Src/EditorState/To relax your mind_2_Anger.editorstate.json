@@ -827,7 +827,7 @@
       "StyleName": "defaultImageStyle",
       "Type": "ControlInfo"
     },
-    "Image13_9": {
+    "Image13_8": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -933,7 +933,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Image13_9",
+      "Name": "Image13_8",
       "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1091,7 +1091,7 @@
       "StyleName": "defaultImageStyle",
       "Type": "ControlInfo"
     },
-    "Image15_9": {
+    "Image15_8": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -1148,7 +1148,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Image15_9",
+      "Name": "Image15_8",
       "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1364,7 +1364,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image7_9",
-      "ParentIndex": 6,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1521,7 +1521,7 @@
       "StyleName": "defaultImageStyle",
       "Type": "ControlInfo"
     },
-    "Image8_9": {
+    "Image8_6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -1578,7 +1578,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Image8_9",
+      "Name": "Image8_6",
       "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1794,7 +1794,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image9_7",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

@@ -31,8 +31,8 @@
         Size: =37
         Text: ="Jump back in"
         Width: =320
-        X: =320
-        Y: =122
+        X: =640
+        Y: =113
         ZIndex: =3
 
     Image25 As image:
@@ -40,24 +40,24 @@
         Image: ='4_2'
         OnSelect: =Navigate('Background Music', Fade)
         Width: =161
-        X: =479
-        Y: =216
+        X: =661
+        Y: =213
         ZIndex: =4
 
     Image26 As image:
         Height: =161
         Image: ='5_1'
         Width: =161
-        X: =479
-        Y: =219
+        X: =898
+        Y: =218
         ZIndex: =5
 
     Image27 As image:
         Height: =161
         Image: ='6_2'
         Width: =157
-        X: =483
-        Y: =462
+        X: =665
+        Y: =457
         ZIndex: =6
 
     Label8_16 As label:
@@ -68,23 +68,10 @@
         Text: |-
             ="Meditate
             Album-Headspace"
-        Width: =386
-        X: =254
+        Width: =172
+        X: =898
         Y: =362
         ZIndex: =7
-
-    Label8_17 As label:
-        Color: =RGBA(0, 13, 75, 1)
-        Font: =Font.Lato
-        Height: =117
-        Size: =14
-        Text: |-
-            ="Relax
-            Album-Headspace"
-        Width: =183
-        X: =457
-        Y: =362
-        ZIndex: =8
 
     Label8_18 As label:
         Color: =RGBA(0, 13, 75, 1)
@@ -95,8 +82,8 @@
             ="Sleep
             Album-Headspace"
         Width: =183
-        X: =457
-        Y: =523
+        X: =834
+        Y: =501
         ZIndex: =9
 
     Label8_25 As label:
@@ -106,8 +93,8 @@
         Size: =24
         Text: ="Dark"
         Width: =118
-        X: =522
-        Y: =34
+        X: =941
+        Y: =33
         ZIndex: =11
 
     Icon5_9 As icon.ArrowLeft:
@@ -122,10 +109,23 @@
 
     Toggle2 As toggleSwitch:
         Height: =29
-        OnSelect: =Navigate('Special Break_3')
+        OnSelect: =Navigate('Special Break_3',Fade)
         Size: =21
         Width: =55
-        X: =585
-        Y: =42
+        X: =1045
+        Y: =39
         ZIndex: =14
+
+    Label8_17 As label:
+        Color: =RGBA(0, 13, 75, 1)
+        Font: =Font.Lato
+        Height: =117
+        Size: =14
+        Text: |-
+            ="Relax
+            Album-Headspace"
+        Width: =183
+        X: =661
+        Y: =362
+        ZIndex: =15
 

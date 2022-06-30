@@ -10,7 +10,7 @@
         Size: =52
         Text: ="Special Break"
         Width: =560
-        X: =80
+        X: =300
         Y: =53
         ZIndex: =1
 
@@ -38,7 +38,7 @@
         Size: =28
         Text: ="Relax Now"
         Width: =588
-        X: =52
+        X: =272
         Y: =426
         ZIndex: =4
 

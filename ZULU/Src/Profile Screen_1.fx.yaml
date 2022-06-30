@@ -124,6 +124,7 @@
     Image8_1 As image:
         Height: =219
         Image: ='Anie Adame foto'
+        OnSelect: =Navigate('Profile Screen_2', Fade)
         Width: =201
         X: =235
         Y: =82
