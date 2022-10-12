@@ -7,10 +7,12 @@
         Color: =RGBA(3, 152, 158, 1)
         Font: =Font.'Lato Black'
         Height: =72
-        Size: =21
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
         Text: ="Date"
-        Width: =146
-        X: =60
+        Width: =60.73
+        X: =24.96
         Y: =256
         ZIndex: =2
 
@@ -18,10 +20,12 @@
         Color: =RGBA(3, 152, 158, 1)
         Font: =Font.'Lato Black'
         Height: =60
-        Size: =21
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
         Text: ="Name"
-        Width: =105
-        X: =60
+        Width: =43.68
+        X: =24.96
         Y: =196
         ZIndex: =3
 
@@ -29,10 +33,12 @@
         Color: =RGBA(3, 152, 158, 1)
         Font: =Font.'Lato Black'
         Height: =85
-        Size: =21
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
         Text: ="How do you Feel?"
-        Width: =240
-        X: =60
+        Width: =99.83
+        X: =24.96
         Y: =328
         ZIndex: =4
 
@@ -42,9 +48,11 @@
         Default: =""
         Height: =42
         OnChange: =
-        Size: =15
-        Width: =301
-        X: =164
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.24
+        Width: =125.21
+        X: =68.22
         Y: =209
         ZIndex: =5
 
@@ -54,24 +62,27 @@
         Default: ="Entrada de texto"
         Font: =Font.Lato
         Height: =447
-        Width: =523
-        X: =60
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =5.41
+        Width: =217.55
+        X: =24.96
         Y: =193
         ZIndex: =7
 
     Circle4_7 As circle:
         Fill: =RGBA(5, 55, 121, 1)
-        Height: =115
-        Width: =125
-        X: =257
+        Height: =47.84
+        Width: =52.00
+        X: =106.90
         Y: =525
         ZIndex: =9
 
     Circle4_8 As circle:
         Fill: =RGBA(5, 55, 121, 1)
-        Height: =115
-        Width: =125
-        X: =458
+        Height: =47.84
+        Width: =52.00
+        X: =190.51
         Y: =525
         ZIndex: =10
 
@@ -79,8 +90,10 @@
         Height: =126
         Image: ='8'
         OnSelect: =Navigate('To relax your mind_1_Serene')
-        Width: =159
-        X: =240
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =66.14
+        X: =99.83
         Y: =514
         ZIndex: =12
 
@@ -88,8 +101,10 @@
         Height: =126
         Image: ='9'
         OnSelect: =Navigate('Profile Screen_1')
-        Width: =159
-        X: =441
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =66.14
+        X: =183.44
         Y: =514
         ZIndex: =13
 
@@ -97,17 +112,22 @@
         Height: =110
         Image: ='17'
         OnSelect: =Navigate('Portal Screen')
-        Width: =118
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =49.08
+        X: =0.00
         ZIndex: =14
 
     Button3 As button:
         Fill: =RGBA(0, 18, 107, 1)
         Height: =59
         OnSelect: =SendButtom.Run(txtName.Text,txtHowdoyoufeel.Text,txtdate.SelectedDate)
-        Size: =24
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =9.98
         Text: ="Send"
-        Width: =196
-        X: =209
+        Width: =81.53
+        X: =86.94
         Y: =581
         ZIndex: =15
 
@@ -117,16 +137,19 @@
         DisabledBorderColor: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Height: =34
-        Width: =235
-        X: =165
+        PaddingRight: =2.08
+        PaddingTop: =0.00
+        Size: =5.82
+        Width: =97.75
+        X: =68.63
         Y: =275
         ZIndex: =17
 
     Circle4_6 As circle:
         Fill: =RGBA(5, 55, 121, 1)
-        Height: =115
-        Width: =125
-        X: =44
+        Height: =47.84
+        Width: =52.00
+        X: =18.30
         Y: =525
         ZIndex: =18
 
@@ -135,8 +158,10 @@
         Image: ='6'
         OnSelect: |-
             =Launch("https://web.powerva.microsoft.com/environments/Default-d8e3bd44-0bba-426b-952d-ada7bb17393c/bots/8ebd2fd9-9628-496f-9aa0-ced1f583d526/" ,LaunchTarget,"_self")
-        Width: =159
-        X: =25
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =66.14
+        X: =10.40
         Y: =514
         ZIndex: =19
 

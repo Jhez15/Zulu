@@ -6,35 +6,41 @@
         Height: =435
         Image: ='Diseño sin título (6)'
         ImagePosition: =ImagePosition.Fill
-        Width: =393
-        X: =247
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =163.47
+        X: =102.74
         ZIndex: =1
 
     Label8_27 As label:
         Align: =Align.Center
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
-        Size: =24
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =9.98
         Text: ="Light"
-        Width: =118
-        X: =522
+        Width: =49.08
+        X: =217.13
         Y: =31
         ZIndex: =2
 
     Toggle2_1 As toggleSwitch:
         Height: =29
         OnSelect: =Navigate('Special Break_3')
-        Size: =21
-        Width: =55
-        X: =585
+        Size: =8.74
+        Width: =22.88
+        X: =243.34
         Y: =37
         ZIndex: =3
 
     Image7 As image:
         Height: =333
         Image: ='Diseño sin título (7)'
-        Width: =424
-        X: =216
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =176.37
+        X: =89.85
         Y: =307
         ZIndex: =4
 
@@ -43,12 +49,14 @@
         Font: =Font.Lato
         FontWeight: =FontWeight.Lighter
         Height: =55
-        Size: =14
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =5.82
         Text: |-
             ="Meditate 
             Headspace"
-        Width: =267
-        X: =373
+        Width: =111.06
+        X: =155.15
         Y: =380
         ZIndex: =5
 
@@ -57,8 +65,10 @@
         Height: =46
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Special Break_1', Fade);
-        Width: =46
-        X: =36
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =19.13
+        X: =14.97
         Y: =29
         ZIndex: =6
 

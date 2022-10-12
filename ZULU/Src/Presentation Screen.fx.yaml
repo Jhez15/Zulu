@@ -7,24 +7,30 @@
         Height: =440
         Image: ='Logo Acrediitación Azul'
         OnSelect: =Navigate('Portal Screen', Fade)
-        Width: =407
-        X: =233
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =169.30
+        X: =136.02
         ZIndex: =9
 
     Image9 As image:
-        Height: =441
+        Height: =407
         Image: ='Zulu (2)'
-        Width: =414
-        X: =226
-        Y: =157
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =163.06
+        X: =139.35
+        Y: =188
         ZIndex: =10
 
     Image11 As image:
-        Height: =342
+        Height: =259
         Image: ='Zulu (3)'
-        Width: =384
-        X: =256
-        Y: =298
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =149.75
+        X: =146.00
+        Y: =324
         ZIndex: =11
 
     Button4_3 As button:
@@ -36,11 +42,13 @@
         HoverBorderColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 0, 18, 107, 1 ), -20%)
         OnSelect: =Navigate('Profile Screen_2', Fade)
+        PaddingRight: =2.08
+        PaddingTop: =2.08
         PressedBorderColor: =RGBA(0, 18, 107, 1)
-        Size: =18
+        Size: =7.49
         Text: ="Start"
-        Width: =239
-        X: =401
+        Width: =99.42
+        X: =170.96
         Y: =522
         ZIndex: =12
 

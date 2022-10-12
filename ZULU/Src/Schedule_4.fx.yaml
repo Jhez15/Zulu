@@ -5,10 +5,12 @@ Schedule_4 As screen:
         Color: =RGBA(50, 86, 160, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =76
-        Size: =48
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =19.97
         Text: ="Recorders"
-        Width: =560
-        X: =40
+        Width: =232.94
+        X: =16.64
         Y: =79
         ZIndex: =1
 
@@ -17,11 +19,13 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =66
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: |-
             ="Reminder of the requested of the listening space:  "
-        Width: =470
-        X: =40
+        Width: =195.50
+        X: =16.64
         Y: =258
         ZIndex: =2
 
@@ -30,10 +34,12 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =57
-        Size: =16
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.66
         Text: ="Day"
-        Width: =87
-        X: =299
+        Width: =36.19
+        X: =124.37
         Y: =359
         ZIndex: =3
 
@@ -42,10 +48,12 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =57
-        Size: =16
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.66
         Text: ="Hours"
-        Width: =87
-        X: =57
+        Width: =36.19
+        X: =23.71
         Y: =359
         ZIndex: =4
 
@@ -54,11 +62,13 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =66
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: |-
             ="Reminder of the completetion of the log:"
-        Width: =470
-        X: =40
+        Width: =195.50
+        X: =16.64
         Y: =539
         ZIndex: =5
 
@@ -67,10 +77,12 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =57
-        Size: =16
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.66
         Text: ="Hours"
-        Width: =87
-        X: =57
+        Width: =36.19
+        X: =23.71
         Y: =583
         ZIndex: =6
 
@@ -79,10 +91,12 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =57
-        Size: =16
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.66
         Text: ="Day"
-        Width: =87
-        X: =299
+        Width: =36.19
+        X: =124.37
         Y: =583
         ZIndex: =7
 
@@ -91,11 +105,13 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =66
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: |-
             ="Pending messages:"
-        Width: =470
-        X: =40
+        Width: =195.50
+        X: =16.64
         Y: =574
         ZIndex: =8
 
@@ -104,10 +120,12 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =57
-        Size: =16
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.66
         Text: ="Hours"
-        Width: =87
-        X: =57
+        Width: =36.19
+        X: =23.71
         Y: =583
         ZIndex: =9
 
@@ -116,41 +134,46 @@ Schedule_4 As screen:
         Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =57
-        Size: =16
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.66
         Text: ="Day"
-        Width: =87
-        X: =299
+        Width: =36.19
+        X: =124.37
         Y: =583
         ZIndex: =10
 
     Toggle1 As toggleSwitch:
         Height: =32
-        Size: =21
-        Width: =100
-        X: =500
+        Size: =8.74
+        Width: =41.60
+        X: =207.98
         Y: =275
         ZIndex: =14
 
     Toggle1_1 As toggleSwitch:
         Height: =32
-        Size: =21
-        Width: =100
-        X: =500
+        Size: =8.74
+        Width: =41.60
+        X: =207.98
         Y: =549
         ZIndex: =15
 
     Toggle1_2 As toggleSwitch:
         Height: =32
-        Size: =21
-        Width: =100
-        X: =500
+        Size: =8.74
+        Width: =41.60
+        X: =207.98
         Y: =608
         ZIndex: =16
 
     Icon5_14 As icon.ArrowLeft:
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        X: =22
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =26.62
+        X: =9.15
         Y: =36
         ZIndex: =17
 

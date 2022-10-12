@@ -12,9 +12,11 @@
         Image: ='22_1'
         ImagePosition: =ImagePosition.Fill
         OnSelect: =Navigate('To relax your mind_6_Sad', Cover)
+        PaddingRight: =0.00
+        PaddingTop: =0.00
         PressedBorderColor: =ColorFade(Self.BorderColor,  100%)
-        Width: =96
-        X: =544
+        Width: =39.93
+        X: =226.28
         Y: =496
         ZIndex: =2
 
@@ -22,8 +24,10 @@
         Height: =197
         Image: ='26'
         OnSelect: =Navigate('To relax your mind_4_Happy', Cover)
-        Width: =102
-        X: =538
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =42.43
+        X: =223.79
         Y: =443
         ZIndex: =4
 
@@ -31,8 +35,10 @@
         Height: =179
         Image: ='24'
         OnSelect: =Navigate('To relax your mind_2_Anger', Cover)
-        Width: =171
-        X: =204
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =71.13
+        X: =84.86
         Y: =461
         ZIndex: =5
 
@@ -40,8 +46,10 @@
         Height: =176
         Image: ='Anie Adame (9)'
         OnSelect: =Navigate('To relax your mind_5_Insecure', Cover)
-        Width: =181
-        X: =459
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =75.29
+        X: =190.93
         Y: =464
         ZIndex: =7
 
@@ -51,26 +59,30 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
-        Size: =36
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =14.97
         Text: ="Choose a emotion"
-        Width: =560
-        X: =80
+        Width: =232.94
+        X: =33.28
         Y: =36
         ZIndex: =8
 
     Circle3_2 As circle:
         Fill: =RGBA(255, 255, 255, 1)
-        Height: =277
-        Width: =272
-        X: =368
+        Height: =115.22
+        Width: =113.14
+        X: =153.08
         Y: =125
         ZIndex: =11
 
     Image7_8 As image:
         Height: =526
         Image: ='27'
-        Width: =320
-        X: =320
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =133.11
+        X: =133.11
         ZIndex: =12
 
     Label5_15 As label:
@@ -79,16 +91,20 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
-        Size: =36
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =14.97
         Text: ="Serene"
-        Width: =560
-        X: =80
+        Width: =232.94
+        X: =33.28
         Y: =402
         ZIndex: =13
 
     Circle4 As circle:
         Fill: =RGBA(255, 255, 255, 1)
-        X: =74
+        Height: =41.60
+        Width: =41.60
+        X: =30.78
         Y: =502
         ZIndex: =16
 
@@ -96,8 +112,10 @@
         Height: =179
         Image: ='27'
         OnSelect: =Navigate('To relax your mind_1_Serene', Cover)
-        Width: =113
-        X: =68
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =47.00
+        X: =28.29
         Y: =461
         ZIndex: =17
 
@@ -105,8 +123,10 @@
         Height: =176
         Image: ='23'
         OnSelect: =Navigate('To relax your mind_3_Surprised', Cover)
-        Width: =129
-        X: =390
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =53.66
+        X: =162.23
         Y: =462
         ZIndex: =18
 
@@ -114,7 +134,10 @@
         Color: =RGBA(255, 255, 255, 1)
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Profile Screen_1')
-        X: =22
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =26.62
+        X: =9.15
         Y: =36
         ZIndex: =19
 

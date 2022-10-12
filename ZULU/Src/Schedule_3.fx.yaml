@@ -5,10 +5,12 @@ Schedule_3 As screen:
         Color: =RGBA(50, 86, 160, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =76
-        Size: =48
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =19.97
         Text: ="March 02"
-        Width: =560
-        X: =40
+        Width: =232.94
+        X: =16.64
         Y: =79
         ZIndex: =1
 
@@ -16,11 +18,13 @@ Schedule_3 As screen:
         Align: =Align.Center
         Color: =RGBA(50, 86, 160, 1)
         Height: =76
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: |-
             ="4:10 - 5:00 PM "
-        Width: =560
-        X: =40
+        Width: =232.94
+        X: =16.64
         Y: =155
         ZIndex: =2
 
@@ -29,11 +33,13 @@ Schedule_3 As screen:
         Color: =RGBA(56, 96, 178, 1)
         FontWeight: =FontWeight.Semibold
         Height: =69
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: |-
             ="Reason of the listening space:"
-        Width: =406
-        X: =40
+        Width: =168.88
+        X: =16.64
         Y: =304
         ZIndex: =3
 
@@ -47,9 +53,11 @@ Schedule_3 As screen:
         Height: =309
         HoverBorderColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(241, 244, 249, 1)
-        Size: =18
-        Width: =498
-        X: =53
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.49
+        Width: =207.15
+        X: =22.05
         Y: =331
         ZIndex: =4
 
@@ -58,10 +66,12 @@ Schedule_3 As screen:
         Color: =RGBA(56, 96, 178, 1)
         FontWeight: =FontWeight.Semibold
         Height: =62
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: ="Confirm time & date"
-        Width: =276
-        X: =53
+        Width: =114.81
+        X: =22.05
         Y: =578
         ZIndex: =5
 
@@ -76,12 +86,14 @@ Schedule_3 As screen:
         Height: =169
         HoverFill: =ColorFade(RGBA( 192, 192, 192, 1 ), 0%)
         OnSelect: =Navigate('Portal Screen_2')
-        Size: =38
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =15.81
         Text: |-
             ="March 02
             4:10- 5:00 PM"
-        Width: =346
-        X: =53
+        Width: =143.92
+        X: =22.05
         Y: =471
         ZIndex: =6
 
@@ -89,14 +101,20 @@ Schedule_3 As screen:
         Fill: =RGBA(255, 255, 255, 1)
         Icon: =Icon.Settings
         OnSelect: =Navigate(Schedule_4, Fade)
-        X: =487
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =26.62
+        X: =202.57
         Y: =576
         ZIndex: =7
 
     Icon5_13 As icon.ArrowLeft:
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        X: =22
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =26.62
+        X: =9.15
         Y: =36
         ZIndex: =8
 

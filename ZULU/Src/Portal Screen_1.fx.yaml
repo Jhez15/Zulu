@@ -5,8 +5,10 @@
     Image3_1 As image:
         Height: =331
         Image: ='Logo Acrediitación Azul'
-        Width: =292
-        X: =176
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =121.46
+        X: =73.21
         Y: =15
         ZIndex: =2
 
@@ -17,10 +19,12 @@
         Font: =Font.'Lato Black'
         FontWeight: =FontWeight.Bold
         Height: =76
-        Size: =35
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =14.56
         Text: ="Sign up"
-        Width: =560
-        X: =34
+        Width: =232.94
+        X: =14.14
         Y: =297
         ZIndex: =4
 
@@ -31,9 +35,11 @@
         Height: =33
         HoverBorderColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(241, 244, 249, 1)
-        Size: =21
-        Width: =418
-        X: =93
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
+        Width: =173.87
+        X: =38.68
         Y: =500
         ZIndex: =5
 
@@ -41,10 +47,12 @@
         Color: =RGBA(56, 96, 178, 1)
         Font: =Font.'Lato Black'
         Height: =57
-        Size: =21
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
         Text: ="Email"
-        Width: =107
-        X: =89
+        Width: =44.51
+        X: =37.02
         Y: =583
         ZIndex: =6
 
@@ -52,10 +60,12 @@
         Color: =RGBA(56, 96, 178, 1)
         Font: =Font.'Lato Black'
         Height: =42
-        Size: =21
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
         Text: ="Password"
-        Width: =182
-        X: =89
+        Width: =75.71
+        X: =37.02
         Y: =598
         ZIndex: =7
 
@@ -63,10 +73,12 @@
         Color: =RGBA(56, 96, 178, 1)
         Font: =Font.'Lato Black'
         Height: =57
-        Size: =21
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
         Text: ="Name & Last name"
-        Width: =270
-        X: =93
+        Width: =112.31
+        X: =38.68
         Y: =443
         ZIndex: =12
 
@@ -74,10 +86,12 @@
         Color: =RGBA(56, 96, 178, 1)
         Font: =Font.'Lato Black'
         Height: =57
-        Size: =21
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
         Text: ="Turn"
-        Width: =107
-        X: =93
+        Width: =44.51
+        X: =38.68
         Y: =574
         ZIndex: =13
 
@@ -86,8 +100,10 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =93
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =38.68
         Y: =533
         ZIndex: =14
 
@@ -97,8 +113,10 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =133
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =55.32
         Y: =533
         ZIndex: =16
 
@@ -106,8 +124,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =202
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =84.02
         Y: =533
         ZIndex: =17
 
@@ -115,8 +135,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =173
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =71.96
         Y: =533
         ZIndex: =18
 
@@ -124,8 +146,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =245
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =101.91
         Y: =533
         ZIndex: =19
 
@@ -133,8 +157,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =275
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =114.39
         Y: =533
         ZIndex: =20
 
@@ -142,8 +168,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =316
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =131.44
         Y: =533
         ZIndex: =21
 
@@ -151,8 +179,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =363
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =151.00
         Y: =533
         ZIndex: =22
 
@@ -160,8 +190,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =388
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =161.39
         Y: =533
         ZIndex: =23
 
@@ -169,8 +201,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =420
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =174.71
         Y: =533
         ZIndex: =24
 
@@ -178,8 +212,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =459
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =190.93
         Y: =533
         ZIndex: =25
 
@@ -190,9 +226,11 @@
         Height: =33
         HoverBorderColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(241, 244, 249, 1)
-        Size: =21
-        Width: =418
-        X: =93
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
+        Width: =173.87
+        X: =38.68
         Y: =607
         ZIndex: =26
 
@@ -201,8 +239,10 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =93
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =38.68
         Y: =630
         ZIndex: =27
 
@@ -212,8 +252,10 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =133
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =55.32
         Y: =630
         ZIndex: =28
 
@@ -221,8 +263,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =202
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =84.02
         Y: =630
         ZIndex: =29
 
@@ -230,8 +274,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =173
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =71.96
         Y: =630
         ZIndex: =30
 
@@ -239,8 +285,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =245
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =101.91
         Y: =630
         ZIndex: =31
 
@@ -248,8 +296,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =275
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =114.39
         Y: =630
         ZIndex: =32
 
@@ -257,8 +307,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =316
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =131.44
         Y: =630
         ZIndex: =33
 
@@ -266,8 +318,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =363
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =151.00
         Y: =630
         ZIndex: =34
 
@@ -275,8 +329,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =388
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =161.39
         Y: =630
         ZIndex: =35
 
@@ -284,8 +340,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =420
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =174.71
         Y: =630
         ZIndex: =36
 
@@ -293,8 +351,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =459
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =190.93
         Y: =630
         ZIndex: =37
 
@@ -305,9 +365,11 @@
         Height: =33
         HoverBorderColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(241, 244, 249, 1)
-        Size: =21
-        Width: =418
-        X: =93
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
+        Width: =173.87
+        X: =38.68
         Y: =607
         ZIndex: =38
 
@@ -316,8 +378,10 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =93
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =38.68
         Y: =630
         ZIndex: =39
 
@@ -327,8 +391,10 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =133
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =55.32
         Y: =630
         ZIndex: =40
 
@@ -336,8 +402,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =202
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =84.02
         Y: =630
         ZIndex: =41
 
@@ -345,8 +413,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =173
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =71.96
         Y: =630
         ZIndex: =42
 
@@ -354,8 +424,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =245
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =101.91
         Y: =630
         ZIndex: =43
 
@@ -363,8 +435,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =275
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =114.39
         Y: =630
         ZIndex: =44
 
@@ -372,8 +446,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =316
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =131.44
         Y: =630
         ZIndex: =45
 
@@ -381,8 +457,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =363
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =151.00
         Y: =630
         ZIndex: =46
 
@@ -390,8 +468,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =388
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =161.39
         Y: =630
         ZIndex: =47
 
@@ -399,8 +479,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =420
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =174.71
         Y: =630
         ZIndex: =48
 
@@ -408,8 +490,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =459
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =190.93
         Y: =630
         ZIndex: =49
 
@@ -420,9 +504,11 @@
         Height: =33
         HoverBorderColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(241, 244, 249, 1)
-        Size: =21
-        Width: =418
-        X: =89
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
+        Width: =173.87
+        X: =37.02
         Y: =607
         ZIndex: =50
 
@@ -431,8 +517,10 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =89
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =37.02
         Y: =630
         ZIndex: =51
 
@@ -442,8 +530,10 @@
         Fill: =RGBA(255, 255, 255, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =129
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =53.66
         Y: =630
         ZIndex: =52
 
@@ -451,8 +541,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =198
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =82.36
         Y: =630
         ZIndex: =53
 
@@ -460,8 +552,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =169
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =70.30
         Y: =630
         ZIndex: =54
 
@@ -469,8 +563,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =241
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =100.25
         Y: =630
         ZIndex: =55
 
@@ -478,8 +574,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =271
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =112.73
         Y: =630
         ZIndex: =56
 
@@ -487,8 +585,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =312
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =129.78
         Y: =630
         ZIndex: =57
 
@@ -496,8 +596,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =359
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =149.33
         Y: =630
         ZIndex: =58
 
@@ -505,8 +607,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =384
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =159.73
         Y: =630
         ZIndex: =59
 
@@ -514,8 +618,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =416
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =173.04
         Y: =630
         ZIndex: =60
 
@@ -523,8 +629,10 @@
         Color: =RGBA(202, 202, 202, 1)
         Height: =10
         Icon: =Icon.HorizontalLine
-        Width: =52
-        X: =455
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =21.63
+        X: =189.26
         Y: =630
         ZIndex: =61
 
@@ -533,9 +641,12 @@
         Color: =RGBA(56, 96, 178, 1)
         Font: =Font.'Lato Black'
         Height: =29
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =5.41
         Text: ="Already have an account? "
-        Width: =377
-        X: =95
+        Width: =156.82
+        X: =39.52
         Y: =611
         ZIndex: =62
 
@@ -551,10 +662,12 @@
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Portal Screen_2', Fade)
-        Size: =13
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =5.41
         Text: ="login"
-        Width: =50
-        X: =390
+        Width: =20.80
+        X: =162.23
         Y: =611
         ZIndex: =63
 
@@ -570,10 +683,12 @@
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Portal Screen_2', Fade)
-        Size: =30
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =12.48
         Text: ="Log in"
-        Width: =139
-        X: =488
+        Width: =57.82
+        X: =202.99
         Y: =34
         ZIndex: =64
 

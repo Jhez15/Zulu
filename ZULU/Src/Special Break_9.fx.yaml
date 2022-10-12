@@ -7,10 +7,12 @@
         Font: =Font.Georgia
         FontWeight: =FontWeight.Semibold
         Height: =129
-        Size: =45
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =18.72
         Text: ="Relax your mind"
-        Width: =560
-        X: =43
+        Width: =232.94
+        X: =17.89
         Y: =100
         ZIndex: =1
 

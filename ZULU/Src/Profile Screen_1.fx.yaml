@@ -6,32 +6,36 @@
     Rectangle4 As rectangle:
         Fill: =RGBA(241, 244, 249, 1)
         Height: =188
-        Width: =640
+        Width: =266.22
+        X: =0.00
         ZIndex: =1
 
     Label8 As label:
         Align: =Align.Center
         Font: =Font.Lato
         Height: =129
-        Size: =28
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =11.65
         Text: ="Anie Adames"
-        Width: =560
-        X: =39
+        Width: =232.94
+        X: =16.22
         Y: =340
         ZIndex: =3
 
     Circle2 As circle:
         Fill: =RGBA(255, 255, 255, 1)
-        Height: =92
-        Width: =90
+        Height: =38.27
+        Width: =37.44
+        X: =0.00
         Y: =548
         ZIndex: =14
 
     Circle1_4 As circle:
         Fill: =RGBA(255, 255, 255, 1)
-        Height: =208
-        Width: =219
-        X: =210
+        Height: =86.52
+        Width: =91.10
+        X: =87.35
         Y: =88
         ZIndex: =16
 
@@ -39,10 +43,12 @@
         Align: =Align.Center
         Font: =Font.Lato
         Height: =24
-        Size: =17
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.07
         Text: ="anie.adames2023@mottach.superate.org.pa"
-        Width: =447
-        X: =90
+        Width: =185.94
+        X: =37.44
         Y: =445
         ZIndex: =19
 
@@ -50,11 +56,13 @@
         Align: =Align.Center
         Font: =Font.Lato
         Height: =20
-        Size: =18
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.49
         Text: |-
             ="Turn: P.M."
-        Width: =131
-        X: =72
+        Width: =54.49
+        X: =29.95
         Y: =519
         ZIndex: =20
 
@@ -62,11 +70,13 @@
         Align: =Align.Center
         Font: =Font.Lato
         Height: =24
-        Size: =18
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.49
         Text: |-
             ="Level: Junior"
-        Width: =143
-        X: =429
+        Width: =59.48
+        X: =178.45
         Y: =515
         ZIndex: =21
 
@@ -74,7 +84,8 @@
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(166, 166, 166, 1)
         Height: =0
-        Width: =640
+        Width: =266.22
+        X: =0.00
         Y: =540
         ZIndex: =22
 
@@ -82,7 +93,8 @@
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(116, 116, 116, 1)
         Height: =3
-        Width: =640
+        Width: =266.22
+        X: =0.00
         Y: =637
         ZIndex: =23
 
@@ -91,10 +103,12 @@
         Color: =RGBA(116, 116, 116, 1)
         Font: =Font.'Lato Black'
         Height: =36
-        Size: =19
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.90
         Text: ="Mensajes recientes"
-        Width: =233
-        X: =203
+        Width: =96.92
+        X: =84.44
         Y: =604
         ZIndex: =24
 
@@ -103,11 +117,13 @@
         Color: =RGBA(230, 230, 230, 1)
         Font: =Font.'Lato Black'
         Height: =92
-        Size: =19
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.90
         Text: ="You don't have messages"
-        Width: =445
-        X: =97
-        Y: =721
+        Width: =185.10
+        X: =40.35
+        Y: =548
         ZIndex: =25
 
     Icon3 As icon.More:
@@ -116,8 +132,10 @@
         HoverBorderColor: =ColorFade(Self.BorderColor, -100%)
         Icon: =Icon.More
         OnSelect: =Navigate('Profile Screen_2', Fade)
-        Width: =95
-        X: =26
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =39.52
+        X: =10.82
         Y: =30
         ZIndex: =27
 
@@ -125,8 +143,10 @@
         Height: =219
         Image: ='Anie Adame foto'
         OnSelect: =Navigate('Profile Screen_2', Fade)
-        Width: =201
-        X: =235
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =83.61
+        X: =97.75
         Y: =82
         ZIndex: =28
 

@@ -5,25 +5,32 @@ Schedule_1 As screen:
         Color: =RGBA(50, 86, 160, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =76
-        Size: =48
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =19.97
         Text: ="March"
-        Width: =560
-        X: =36
+        Width: =232.94
+        X: =14.97
         Y: =144
         ZIndex: =1
 
     Icon5_6 As icon.ArrowLeft:
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        X: =22
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =26.62
+        X: =9.15
         Y: =36
         ZIndex: =2
 
     Image16 As image:
         Height: =640
         Image: ='Anie Adame (10)'
-        Width: =528
-        X: =52
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =219.63
+        X: =21.63
         ZIndex: =3
 
     Button6_8 As button:
@@ -37,26 +44,32 @@ Schedule_1 As screen:
         Height: =43
         HoverFill: =ColorFade(RGBA( 135, 206, 235, 1 ), 0%)
         OnSelect: =Navigate(Schedule_2, Fade)
-        Size: =33
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =13.73
         Text: ="2"
-        Width: =50
-        X: =291
+        Width: =20.80
+        X: =121.05
         Y: =463
         ZIndex: =5
 
     Icon6 As icon.ChevronLeft:
         Height: =41
         Icon: =Icon.ChevronLeft
-        Width: =89
-        X: =86
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =37.02
+        X: =35.77
         Y: =168
         ZIndex: =6
 
     Icon7 As icon.ChevronRight:
         Height: =47
         Icon: =Icon.ChevronRight
-        Width: =39
-        X: =473
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =16.22
+        X: =196.75
         Y: =162
         ZIndex: =7
 

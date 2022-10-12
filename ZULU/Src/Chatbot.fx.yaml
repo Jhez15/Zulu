@@ -3,165 +3,209 @@ Chatbot As screen:
     Image15 As image:
         Height: =225
         Image: ='Zulu (6)'
+        PaddingRight: =0.00
+        PaddingTop: =0.00
         Transparency: =0.7
-        Width: =640
+        Width: =266.22
+        X: =0.00
         ZIndex: =4
 
     Icon5_8 As icon.ArrowLeft:
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Profile Screen_1')
-        X: =34
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =26.62
+        X: =14.14
         Y: =28
         ZIndex: =5
 
     Image17 As image:
         Height: =120
         Image: ='Zulu (4)'
-        Width: =118
-        X: =261
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =49.08
+        X: =108.57
         ZIndex: =6
 
     Image9_1 As image:
         Height: =181
         Image: ='Zulu (2)'
-        Width: =414
-        X: =113
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =172.21
+        X: =47.00
         Y: =73
         ZIndex: =7
 
     Image19 As image:
         Height: =276
         Image: ='Zulu (8)'
-        Width: =240
-        X: =324
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =99.83
+        X: =134.77
         Y: =225
         ZIndex: =9
 
     Image22 As image:
         Height: =132
         Image: ='Diseño sin título (8)'
-        Width: =576
-        X: =32
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =239.60
+        X: =13.31
         Y: =508
         ZIndex: =10
 
     Image29 As image:
         Height: =296
         Image: ='Zulu (7)_1'
-        Width: =240
-        X: =76
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =99.83
+        X: =31.61
         Y: =292
         ZIndex: =12
 
     Image19_1 As image:
         Height: =276
         Image: ='Zulu (8)'
-        Width: =240
-        X: =313
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =99.83
+        X: =130.20
         Y: =364
         ZIndex: =15
 
     Image29_1 As image:
         Height: =301
         Image: ='Zulu (7)_1'
-        Width: =240
-        X: =76
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =99.83
+        X: =31.61
         Y: =339
         ZIndex: =16
 
     Image19_2 As image:
         Height: =276
         Image: ='Zulu (8)'
-        Width: =240
-        X: =324
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =99.83
+        X: =134.77
         Y: =364
         ZIndex: =17
 
     Image29_2 As image:
         Height: =296
         Image: ='Zulu (7)_1'
-        Width: =240
-        X: =76
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =99.83
+        X: =31.61
         Y: =135
         ZIndex: =18
 
     Image17_1 As image:
         Height: =64
         Image: ='Zulu (4)'
-        Width: =58
-        X: =7
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =24.13
+        X: =2.91
         Y: =267
         ZIndex: =19
 
     Image17_2 As image:
         Height: =64
         Image: ='Zulu (4)'
-        Width: =58
-        X: =7
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =24.13
+        X: =2.91
         Y: =431
         ZIndex: =20
 
     Image17_3 As image:
         Height: =64
         Image: ='Zulu (4)'
-        Width: =58
-        X: =7
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =24.13
+        X: =2.91
         Y: =576
         ZIndex: =21
 
     Image3_5 As image:
         Height: =151
         Image: ='Anie Adame (5)'
-        Width: =74
-        X: =566
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =30.78
+        X: =235.44
         Y: =344
         ZIndex: =22
 
     Image3_6 As image:
         Height: =151
         Image: ='Anie Adame (5)'
-        Width: =74
-        X: =564
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =30.78
+        X: =234.60
         Y: =489
         ZIndex: =23
 
     Image3_7 As image:
         Height: =151
         Image: ='Anie Adame (5)'
-        Width: =74
-        X: =566
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =30.78
+        X: =235.44
         Y: =489
         ZIndex: =24
 
     Image19_3 As image:
         Height: =276
         Image: ='Zulu (8)'
-        Width: =240
-        X: =324
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =99.83
+        X: =134.77
         Y: =364
         ZIndex: =25
 
     Image17_4 As image:
         Height: =64
         Image: ='Zulu (4)'
-        Width: =58
-        X: =7
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =24.13
+        X: =2.91
         Y: =576
         ZIndex: =26
 
     Image3_8 As image:
         Height: =151
         Image: ='Anie Adame (5)'
-        Width: =74
-        X: =566
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =30.78
+        X: =235.44
         Y: =489
         ZIndex: =27
 
     Image29_3 As image:
         Height: =296
         Image: ='Zulu (7)_1'
-        Width: =240
-        X: =76
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =99.83
+        X: =31.61
         Y: =344
         ZIndex: =28
 
@@ -175,9 +219,11 @@ Chatbot As screen:
         Height: =33
         HoverBorderColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(241, 244, 249, 1)
-        Size: =21
-        Width: =418
-        X: =76
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.74
+        Width: =173.87
+        X: =31.61
         Y: =607
         ZIndex: =29
 
@@ -192,10 +238,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =14.5
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.03
         Text: ="Hi! how you feel today?"
-        Width: =248
-        X: =76
+        Width: =103.16
+        X: =31.61
         Y: =254
         ZIndex: =30
 
@@ -211,10 +259,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =18
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.49
         Text: ="Hi! I'm feel sad "
-        Width: =281
-        X: =283
+        Width: =116.89
+        X: =117.72
         Y: =323
         ZIndex: =31
 
@@ -230,10 +280,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =12
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =4.99
         Text: ="What situations make you feel that way?"
-        Width: =207
-        X: =92
+        Width: =86.10
+        X: =38.27
         Y: =395
         ZIndex: =32
 
@@ -250,9 +302,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.24
         Text: ="There are problems at home"
-        Width: =237
-        X: =329
+        Width: =98.58
+        X: =136.85
         Y: =505
         ZIndex: =33
 
@@ -268,10 +323,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =12
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =4.99
         Text: ="What situations make you feel that way?"
-        Width: =207
-        X: =113
+        Width: =86.10
+        X: =47.00
         Y: =456
         ZIndex: =34
 
@@ -287,10 +344,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =12
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =4.99
         Text: ="You would to talk with a person about this?"
-        Width: =207
-        X: =98
+        Width: =86.10
+        X: =40.76
         Y: =554
         ZIndex: =35
 
@@ -307,10 +366,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =16
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.66
         Text: ="Yes, I would like."
-        Width: =207
-        X: =332
+        Width: =86.10
+        X: =138.10
         Y: =554
         ZIndex: =36
 
@@ -326,10 +387,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =12
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =4.99
         Text: ="Welp, Anie you're capable, I know that you can do it!"
-        Width: =207
-        X: =91
+        Width: =86.10
+        X: =37.85
         Y: =554
         ZIndex: =37
 
@@ -345,10 +408,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =12
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =4.99
         Text: =""
-        Width: =207
-        X: =329
+        Width: =86.10
+        X: =136.85
         Y: =554
         ZIndex: =38
 
@@ -365,10 +430,12 @@ Chatbot As screen:
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =16
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =6.66
         Text: ="Yes, I can."
-        Width: =207
-        X: =331
+        Width: =86.10
+        X: =137.68
         Y: =554
         ZIndex: =39
 

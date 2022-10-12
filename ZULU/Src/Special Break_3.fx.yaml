@@ -7,8 +7,10 @@
         Height: =46
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Special Break_1', Fade);
-        Width: =46
-        X: =36
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =19.13
+        X: =14.97
         Y: =29
         ZIndex: =13
 
@@ -17,10 +19,12 @@
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Height: =94
-        Size: =32
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =13.31
         Text: ="Good evening"
-        Width: =320
-        X: =320
+        Width: =133.11
+        X: =133.11
         Y: =28
         ZIndex: =14
 
@@ -28,18 +32,22 @@
         Align: =Align.Center
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
-        Size: =24
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =9.98
         Text: ="Dark"
-        Width: =118
-        X: =522
+        Width: =49.08
+        X: =217.13
         Y: =33
         ZIndex: =22
 
     Image24_1 As image:
         Height: =591
         Image: ='Diseño sin título (5)'
-        Width: =623
-        X: =17
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =259.15
+        X: =7.07
         Y: =49
         ZIndex: =24
 
@@ -48,10 +56,12 @@
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Height: =94
-        Size: =37
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =15.39
         Text: ="Jump back in"
-        Width: =320
-        X: =320
+        Width: =133.11
+        X: =133.11
         Y: =113
         ZIndex: =25
 
@@ -59,24 +69,30 @@
         Height: =170
         Image: ='4_2'
         OnSelect: =Navigate('Background Music', Fade)
-        Width: =161
-        X: =479
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =66.97
+        X: =199.25
         Y: =213
         ZIndex: =26
 
     Image26_1 As image:
         Height: =161
         Image: ='5_1'
-        Width: =161
-        X: =479
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =66.97
+        X: =199.25
         Y: =218
         ZIndex: =27
 
     Image27_1 As image:
         Height: =161
         Image: ='6_2'
-        Width: =157
-        X: =483
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =65.31
+        X: =200.91
         Y: =457
         ZIndex: =28
 
@@ -84,12 +100,14 @@
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Height: =117
-        Size: =14
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =5.82
         Text: |-
             ="Meditate
             Album-Headspace"
-        Width: =172
-        X: =468
+        Width: =71.55
+        X: =194.67
         Y: =362
         ZIndex: =29
 
@@ -97,21 +115,23 @@
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Height: =117
-        Size: =14
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =5.82
         Text: |-
             ="Sleep
             Album-Headspace"
-        Width: =183
-        X: =457
+        Width: =76.12
+        X: =190.10
         Y: =501
         ZIndex: =30
 
     Toggle2_2 As toggleSwitch:
         Height: =29
         OnSelect: =Navigate('Special Break_3')
-        Size: =21
-        Width: =55
-        X: =585
+        Size: =8.74
+        Width: =22.88
+        X: =243.34
         Y: =39
         ZIndex: =31
 
@@ -119,12 +139,14 @@
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
         Height: =117
-        Size: =14
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =5.82
         Text: |-
             ="Relax
             Album-Headspace"
-        Width: =183
-        X: =457
+        Width: =76.12
+        X: =190.10
         Y: =362
         ZIndex: =32
 

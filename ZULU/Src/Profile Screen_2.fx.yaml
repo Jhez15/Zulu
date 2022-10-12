@@ -4,24 +4,28 @@
     Rectangle1 As rectangle:
         Fill: =RGBA(0, 18, 107, 1)
         Height: =640
-        Width: =450
+        Width: =187.18
+        X: =0.00
         ZIndex: =1
 
     Rectangle4_1 As rectangle:
         BorderColor: =RGBA(253, 222, 207, 1)
         Fill: =RGBA(237, 237, 237, 1)
         Height: =154
-        Width: =640
+        Width: =266.22
+        X: =0.00
         ZIndex: =2
 
     Label8_6 As label:
         Align: =Align.Center
         Font: =Font.Lato
         Height: =129
-        Size: =28
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =11.65
         Text: ="Anie Adames"
-        Width: =560
-        X: =80
+        Width: =232.94
+        X: =33.28
         Y: =249
         ZIndex: =3
 
@@ -29,10 +33,12 @@
         Align: =Align.Center
         Font: =Font.Lato
         Height: =77
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: ="anie.adames2023@mottach.superate.org.pa"
-        Width: =534
-        X: =106
+        Width: =222.13
+        X: =44.09
         Y: =326
         ZIndex: =7
 
@@ -40,11 +46,13 @@
         Align: =Align.Center
         Font: =Font.Lato
         Height: =20
-        Size: =18
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.49
         Text: |-
             ="Turn: P.M."
-        Width: =131
-        X: =509
+        Width: =54.49
+        X: =211.73
         Y: =413
         ZIndex: =8
 
@@ -52,11 +60,13 @@
         Align: =Align.Center
         Font: =Font.Lato
         Height: =24
-        Size: =18
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.49
         Text: |-
             ="Level: Junior"
-        Width: =143
-        X: =497
+        Width: =59.48
+        X: =206.73
         Y: =413
         ZIndex: =9
 
@@ -64,7 +74,8 @@
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(116, 116, 116, 1)
         Height: =5
-        Width: =640
+        Width: =266.22
+        X: =0.00
         Y: =516
         ZIndex: =11
 
@@ -73,10 +84,12 @@
         Color: =RGBA(116, 116, 116, 1)
         Font: =Font.'Lato Black'
         Height: =36
-        Size: =19
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.90
         Text: ="Recent Messages"
-        Width: =233
-        X: =407
+        Width: =96.92
+        X: =169.30
         Y: =480
         ZIndex: =12
 
@@ -85,10 +98,12 @@
         Color: =RGBA(202, 202, 202, 1)
         Font: =Font.'Lato Black'
         Height: =92
-        Size: =19
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =7.90
         Text: ="You don't have messages"
-        Width: =445
-        X: =195
+        Width: =185.10
+        X: =81.11
         Y: =548
         ZIndex: =13
 
@@ -96,16 +111,18 @@
         Height: =140
         Image: ='Diseño sin título (1)'
         OnSelect: =Navigate('Profile Screen_1')
-        Width: =202
-        X: =92
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =84.02
+        X: =38.27
         ZIndex: =14
 
     Rectangle1_7 As rectangle:
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =3
-        Width: =226
-        X: =94
+        Width: =94.01
+        X: =39.10
         Y: =345
         ZIndex: =15
 
@@ -121,10 +138,12 @@
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: ="Profile"
-        Width: =172
-        X: =114
+        Width: =71.55
+        X: =47.42
         Y: =201
         ZIndex: =16
 
@@ -140,10 +159,12 @@
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate(Schedule_1, Fade)
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: ="Schedule"
-        Width: =172
-        X: =120
+        Width: =71.55
+        X: =49.92
         Y: =289
         ZIndex: =17
 
@@ -159,10 +180,12 @@
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate(Chatbot, Fade)
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: ="Chatbot"
-        Width: =172
-        X: =114
+        Width: =71.55
+        X: =47.42
         Y: =358
         ZIndex: =18
 
@@ -178,10 +201,12 @@
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('To relax your mind_1_Serene', Fade)
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: ="How do you feel?"
-        Width: =196
-        X: =109
+        Width: =81.53
+        X: =45.34
         Y: =425
         ZIndex: =19
 
@@ -197,10 +222,12 @@
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Special Break_1', Fade)
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: ="Special Break"
-        Width: =196
-        X: =109
+        Width: =81.53
+        X: =45.34
         Y: =507
         ZIndex: =20
 
@@ -208,8 +235,8 @@
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =3
-        Width: =226
-        X: =92
+        Width: =94.01
+        X: =38.27
         Y: =422
         ZIndex: =21
 
@@ -217,8 +244,8 @@
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =3
-        Width: =226
-        X: =86
+        Width: =94.01
+        X: =35.77
         Y: =521
         ZIndex: =22
 
@@ -226,8 +253,8 @@
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =3
-        Width: =226
-        X: =92
+        Width: =94.01
+        X: =38.27
         Y: =268
         ZIndex: =23
 
@@ -235,8 +262,8 @@
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =3
-        Width: =226
-        X: =94
+        Width: =94.01
+        X: =39.10
         Y: =188
         ZIndex: =24
 
@@ -244,16 +271,18 @@
         BorderColor: =RGBA(3, 152, 158, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =3
-        Width: =226
-        X: =84
+        Width: =94.01
+        X: =34.94
         Y: =584
         ZIndex: =25
 
     Image2 As image:
         Height: =159
         Image: ='Zulu (10)'
-        Width: =197
-        X: =98
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =81.95
+        X: =40.76
         Y: =72
         ZIndex: =26
 
@@ -269,18 +298,22 @@
         HoverColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 255, 255, 240, 1 ), 0%)
         OnSelect: =Navigate('Portal Screen_1')
-        Size: =20
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =8.32
         Text: ="Sign off"
-        Width: =196
-        X: =287
+        Width: =81.53
+        X: =119.38
         Y: =539
         ZIndex: =27
 
     Image8 As image:
         Height: =248
         Image: ='Anie Adame foto'
-        Width: =244
-        X: =396
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =101.50
+        X: =164.72
         Y: =41
         ZIndex: =28
 

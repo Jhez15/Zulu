@@ -5,33 +5,37 @@ Schedule_2 As screen:
         Color: =RGBA(50, 86, 160, 1)
         Fill: =RGBA(255, 255, 255, 1)
         Height: =76
-        Size: =48
+        PaddingRight: =2.08
+        PaddingTop: =2.08
+        Size: =19.97
         Text: ="March 02"
-        Width: =560
-        X: =40
+        Width: =232.94
+        X: =16.64
         Y: =94
         ZIndex: =2
 
     Image21 As image:
         Height: =640
         Image: ='Diseño sin título (3)_1'
-        Width: =560
-        X: =40
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =232.94
+        X: =16.64
         ZIndex: =3
 
     Circle1_6 As circle:
         Fill: =RGBA(9, 33, 98, 1)
-        Height: =42
-        Width: =36
-        X: =402
+        Height: =17.47
+        Width: =14.97
+        X: =167.22
         Y: =598
         ZIndex: =4
 
     Circle1_7 As circle:
         Fill: =RGBA(9, 33, 98, 1)
-        Height: =42
-        Width: =34
-        X: =205
+        Height: =17.47
+        Width: =14.14
+        X: =85.27
         Y: =598
         ZIndex: =5
 
@@ -44,18 +48,23 @@ Schedule_2 As screen:
         HoverBorderColor: =RGBA(0, 18, 107, 1)
         HoverFill: =ColorFade(RGBA( 0, 18, 107, 1 ), -20%)
         OnSelect: =Navigate(Schedule_3, Fade)
+        PaddingRight: =2.08
+        PaddingTop: =2.08
         PressedBorderColor: =RGBA(0, 18, 107, 1)
-        Size: =18
+        Size: =7.49
         Text: ="Continue"
-        Width: =201
-        X: =219
+        Width: =83.61
+        X: =91.10
         Y: =598
         ZIndex: =6
 
     Icon5_12 As icon.ArrowLeft:
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate('Profile Screen_1', Fade)
-        X: =22
+        PaddingRight: =0.00
+        PaddingTop: =0.00
+        Width: =26.62
+        X: =9.15
         Y: =36
         ZIndex: =7
 
